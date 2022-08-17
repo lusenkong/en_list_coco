@@ -397,7 +397,6 @@
 	391	 	process
 	392	 	music
 	393	 	including
-	394	 	consider
 	395	 	appear
 	396	 	actually
 	397	 	buy
@@ -1087,7 +1086,6 @@
 	1094	 	assume
 	1095	 	wind
 	1096	 	key
-	1097	 	professional
 	1098	 	mission
 	1099	 	fast
 	
@@ -1935,9 +1933,6 @@
 	a typical Italian cafe
 	
 	1849	 	except
-	1850	 	conservative
-	保守的，保守的人
-	
 	1851	 	eliminate清除 排除 淘汰，杀死
 	
 	Credit cards eliminate the need to carry a lot of cash
@@ -3010,7 +3005,6 @@
 	
 	（尤指战时的）同盟国
 	
-	2430	 	journey
 	2431	 	reputation
 	2432	 	mixture
 	2433	 	surely
@@ -3039,11 +3033,6 @@
 	2452	 	belt
 	2453	 	teaspoon
 	2454	 	birthday
-	2455	 	implication
-	
-	含意；暗指
-	牵连，影响
-	
 	2456	 	perfectly
 	2457	 	coast
 	2458	 	supporter
@@ -3164,7 +3153,6 @@
 	
 	n 镇长，市长，郡长
 	
-	2508	 	consideration
 	2509	 	CEO
 	2510	 	secure
 	
@@ -3391,7 +3379,6 @@
 	adv 极重要的；关键的；至关紧要的
 	
 	2584	 	fast
-	2585	 	professional
 	2586	 	effectively
 	2587	 	biological
 	2588	 	pack
@@ -4074,11 +4061,28 @@
 	2768	 	decline
 	
 	减少，下降，衰落，衰退
+
+	4431	 	conservation
+
+	noun（对环境的，文物的，资源）保护
+	
+	
+	8083	 	conserve
+
+	verb 保存；保护；节约；节省
+	noun 果酱
+	
+	
+	9448	 	conservatism
+
+	noun 保守；保守主义
+
 	
 	2769	 	conservative
 	
-	保守的；守旧的
-	
+	adj 保守的；守旧的
+	noun 保守的人	
+
 	2770	 	process
 	2771	 	square
 	2772	 	stick
@@ -4161,6 +4165,7 @@
 	
 	报纸，刊物，杂志
 	
+2430	 	journey
 	2804	 	bench
 	
 	（木制）长凳，长椅，替补席
@@ -4223,6 +4228,23 @@
 	~ (that)…
 	Are you implying(that) I am  wrong?
 	你的意思是不是说我错了？
+	
+	6841	 	implicit
+
+	adj. 暗示的；盲从的；含蓄的
+	
+	9878	 	implicitly
+
+	adv. 含蓄地;暗示地
+
+	7845	 	implicate
+	
+	vt. 牵连, 涉及
+
+	2455	 	implication
+	
+	含意；暗指
+	牵连，影响
 	
 	2819	 	naturally
 	
@@ -4361,6 +4383,19 @@
 	
 	2874	 	free
 	2876	 	originally
+394	 	consider
+	2508	 	consideration
+
+Noun n. 体贴, 关心
+
+4695	 	considerably
+
+adv. 相当,非常,颇
+
+	5020	 	considering
+
+prep. 考虑到, 就…而论
+
 	2877	 	considerable
 	
 	相当多（或大、重要等）的
@@ -4423,13 +4458,22 @@
 	2905	 	net
 	2906	 	characterize
 	
-	是…的特征；以…为典型
+	是…的特征；以…为典型 + by
 	the rolling hills that characterize this part of England
 	成为英格兰这一地区特征的绵延起伏的丘陵地
 	
 	2907	 	funeral
 	
 	葬礼；丧礼；出殡
+
+	2863	 	possess
+	
+	verb 有；拥有
+	
+	3627	 	possession
+	
+	noun 具有；拥有
+	noun 个人财产；私人物品
 	
 	2908	 	profession
 	
@@ -4437,6 +4481,11 @@
 	the medical/legal/teaching, etc. profession
 	医疗、法律、教学等行业
 	
+2585	 	professional
+
+adj. 职业的, 专业的
+内行的, 有经验的
+
 	2909	 	alter
 	
 	（使）改变，更改，改动
@@ -4554,7 +4603,7 @@
 	2951	 	radical
 	
 	根本的；彻底的；完全的
-	the need for radical changes ineducation
+	the need for radical changes in education
 	对教育进行彻底变革的需要
 	
 	激进的；极端的
@@ -7616,14 +7665,6 @@
 	
 	adj  诊断的；判断的
 	
-	2863	 	possess
-	
-	verb 有；拥有
-	
-	3627	 	possession
-	
-	noun 具有；拥有
-	noun 个人财产；私人物品
 	
 	3628	 	forgive
 	3629	 	warm
@@ -9776,7 +9817,6 @@
 	4428	 	dried
 	4429	 	minimum
 	4430	 	pro
-	4431	 	conservation
 	4432	 	shove
 	4433	 	backyard
 	4434	 	charter
@@ -10032,7 +10072,6 @@
 	4692	 	transport
 	4693	 	conscience
 	4694	 	calculation
-	4695	 	considerably
 	4696	 	interval
 	4697	 	scratch
 	4698	 	awake
@@ -10341,7 +10380,6 @@
 	5017	 	suppress
 	5018	 	rape
 	5019	 	brass
-	5020	 	considering
 	5021	 	drill
 	5022	 	unfortunate
 	5023	 	anchor
@@ -11654,7 +11692,6 @@
 	6372	 	contempt
 	6373	 	bastard
 	6374	 	module
-	6375	 	considering
 	6378	 	ample
 	6379	 	zoo
 	6380	 	wheel
@@ -11994,7 +12031,6 @@
 	6730	 	linebacker
 	6731	 	undo
 	6732	 	advancement
-	6733	 	radical
 	6734	 	split
 	6735	 	basics
 	6736	 	goddess
@@ -12096,7 +12132,6 @@
 	6838	 	crouch
 	6839	 	conquer
 	6840	 	enduring
-	6841	 	implicit
 	6842	 	unlimited
 	6843	 	dictator
 	6844	 	inhale
@@ -13089,7 +13124,6 @@
 	7842	 	splendid
 	7843	 	multinational
 	7844	 	shell
-	7845	 	implicate
 	7846	 	periodic
 	7847	 	refined
 	7848	 	mesh
@@ -13322,7 +13356,6 @@
 	8080	 	decay
 	8081	 	silhouette
 	8082	 	struggling
-	8083	 	conserve
 	8084	 	hen
 	8085	 	hopeless
 	8086	 	revisit
@@ -14662,7 +14695,6 @@
 	9445	 	evidence
 	9446	 	unreasonable
 	9447	 	sole
-	9448	 	conservatism
 	9449	 	reprint
 	9450	 	rename
 	9451	 	hunch
@@ -15085,7 +15117,6 @@
 	9875	 	tan
 	9876	 	protector
 	9877	 	inefficient
-	9878	 	implicitly
 	9879	 	prominently
 	9880	 	unto
 	9881	 	cyclist
