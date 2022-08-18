@@ -6,8 +6,10 @@ if __name__ =="__main__":
     vocalibary = sys.argv[1]
     last_row = int(sys.argv[2])
     select_words = int(sys.argv[3])
+    flag = int(sys.argv[4])
 
     index_list = []
+    index_hard_list = []
     file = open(vocalibary,mode='r')
     lines = file.readlines()
     file.close()
@@ -33,11 +35,19 @@ if __name__ =="__main__":
                 else:
                     table_of_words[sp1[0]] = [sp1[1],label.strip()]
                     index_list.append(sp1[0])
+
+                    if label.strip()!='':
+                        index_hard_list.append(sp1[0])
                     break
         else:
             i+=1
-
-    list_of_random_items = random.sample(index_list, select_words)
+    if flag ==0:
+        list_of_random_items = random.sample(index_list, select_words)
     
-    for index in list_of_random_items:
-        print(index, table_of_words[index])
+        for index in list_of_random_items:
+            print(index, table_of_words[index])
+    elif flag ==1:
+        list_of_random_items = random.sample(index_hard_list, select_words)
+        for index in list_of_random_items:
+            print(index, table_of_words[index])
+    
