@@ -2151,11 +2151,7 @@
 	1996	 	flow
 	1997	 	faculty
 	
-	the faculty of sight
-	
-	the Faculty of Law
-	
-	the Law School faculty
+	全体教师；学院
 	
 	1998	 	increased
 	1999	 	waste
@@ -5562,10 +5558,6 @@
 	3213	 	naked
 	3214	 	anticipate
 	
-	verb 先于…做；早于…行动
-	Amundsen had anticipated him.
-	斯科特到达南极时发现阿蒙森已到过那里。
-	
 	verb 预料；预期
 	We don't anticipate any major problems.
 	我们预料不会出现什么大问题。
@@ -7333,7 +7325,7 @@
 	3564	 	unlike
 	3565	 	trunk
 	
-	noun n. 树干;大箱子；大衣箱
+	noun n. 树干;象鼻
 	
 	3566	 	rumor
 	2304	 	implement

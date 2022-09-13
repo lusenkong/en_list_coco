@@ -1049,6 +1049,9 @@
 	1054	 	kitchen
 	1056	 	shot
 	1057	 	budget
+
+	v n 预算
+
 	1058	 	wish
 	1059	 	painting
 	1060	 	scientist
@@ -5341,6 +5344,7 @@
 	8460	 	demonstrator
 	
 	示威者
+	样例/试例
 	
 	3169	 	jet
 	
@@ -5888,6 +5892,10 @@
 	noun 测量；度量;尺寸，长度，数量
 	
 	942	 	measure
+
+	n 措施
+	v 测量
+
 	3255	 	province
 	
 	省份；（某些国家的）一级行政区
@@ -9394,6 +9402,9 @@
 	
 	4000	 	performer
 	4001	 	intent
+
+	意图
+
 	4002	 	isolate
 	4005	 	productive
 	4006	 	assembly
@@ -11496,6 +11507,9 @@
 	6177	 	avenue
 	6178	 	addict
 	6180	 	ramp
+
+	
+
 	6181	 	staff
 	6182	 	berry
 	6183	 	mug
@@ -13026,7 +13040,6 @@
 	7745	 	creamy
 	7746	 	foresee
 	7747	 	sport
-	7748	 	intent
 	7749	 	oneself
 	7750	 	wade
 	7751	 	enhanced
