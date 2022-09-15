@@ -1361,7 +1361,6 @@
 	1364	 	result
 	1365	 	insist
 	1366	 	failure
-	1367	 	annual
 	1368	 	French
 	1369	 	Christmas
 	1370	 	comment
@@ -3028,7 +3027,6 @@
 	2453	 	teaspoon
 	2454	 	birthday
 	2456	 	perfectly
-	2457	 	coast
 	2458	 	supporter
 	2459	 	accompany
 	
@@ -4627,10 +4625,6 @@
 	
 	2968	 	evolution
 	2969	 	ill
-	2970	 	tribe
-	
-	部落
-	
 	2971	 	shelf
 	
 	）架子，搁板
@@ -9576,45 +9570,116 @@
 	4055	 	hardware
 	4056	 	pillow
 	4057	 	kit
+
+	装备；tool kit 工具箱
+
 	4058	 	cook
 	4059	 	spread
+	
+	传播
+
 	4060	 	continent
+
+	n. 洲, 大陆
+
 	4061	 	seal
+
+	海豹；海豹突击队seal team ；密封；达成seal the deal达成交易
+
 	4062	 	circuit
-	4063	 	sink
+
+	n. 电路，回路；环道；一圈；巡回
+
 	4064	 	ruling
+
+	adj. 统治的，支配的；流行的，普遍的；主要的
+	
+	1367	 	annual
 	4066	 	annually
+
+	adv. 一年一次；每年
+
 	4067	 	lately
 	4068	 	trap
 	4069	 	scan
 	4070	 	fool
 	4071	 	deadline
 	4072	 	rear
+
+	adj 后面的，背面的
+	vt 栽培
+
 	4073	 	processing
 	4074	 	ranch
+
+	大牧场；大农场
+	
+	2457	 	coast
 	4075	 	coastal
+
+	ADJ 海岸的；沿岸的
+	
+	9919	 	coaster
+	
+	沿岸的贸易船
+	
 	4076	 	undertake
+
+	verb 担任；承担；从事；负责
+
 	4077	 	softly
 	4079	 	burning
 	4080	 	verbal
+
+	口头的；言语的； verbal ability 语言能力
+	
+	2970	 	tribe
+	
+	部落
+	
 	4081	 	tribal
+
+	部落的
+
 	4082	 	ridiculous
 	4084	 	diamond
 	4085	 	credibility
+
+	NOUN 可信度；可靠性
+	
 	4086	 	import
 	4087	 	sexually
 	4088	 	spring
 	4089	 	way
 	4090	 	divine
+
+	神圣的
+
 	4091	 	sentiment
+
+	情绪 market sentiment市场情绪；public sentiment 公共情绪
+
 	4092	 	cart
+
+	手推车
+
 	4093	 	oversee
-	4094	 	stem
+
+	V 监督 审查
+
 	4095	 	elder
 	4096	 	pro
+
+	ADJ 赞成的，职业的
+
 	4097	 	inspiration
+
+	灵感
+	
 	4098	 	Dutch
 	4099	 	quantity
+
+	数目
 	
 	-------
 	
@@ -15286,7 +15351,6 @@
 	9916	 	hiker
 	9917	 	close-up
 	9918	 	mileage
-	9919	 	coaster
 	9920	 	treadmill
 	9921	 	relegate
 	9922	 	faintly
