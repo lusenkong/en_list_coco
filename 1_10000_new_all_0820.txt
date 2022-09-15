@@ -573,7 +573,6 @@
 	566	 	land
 	567	 	recent
 	568	 	describe
-	569	 	product
 	570	 	doctor
 	571	 	wall
 	572	 	patient
@@ -921,7 +920,6 @@
 	922	 	respond
 	923	 	statement
 	925	 	charge
-	926	 	popular
 	927	 	traditional
 	928	 	onto
 	929	 	reveal
@@ -953,7 +951,6 @@
 	958	 	discover
 	959	 	candidate
 	960	 	top
-	961	 	production
 	962	 	treat
 	963	 	trip
 	964	 	evening
@@ -1689,7 +1686,6 @@
 	1648	 	aid
 	1649	 	advice
 	1650	 	okay
-	1651	 	photograph
 	1652	 	empty
 	1653	 	regional
 	1655	 	novel
@@ -1799,7 +1795,6 @@
 	1741	 	ethnic
 	1742	 	link
 	1743	 	stress
-	1744	 	content
 	1745	 	select
 	1746	 	root
 	1747	 	nose
@@ -3717,20 +3712,6 @@
 	
 	（可移动的）家具
 	
-	2691	 	cooperation
-	
-	合作；协作
-	
-	2626	 	corporation
-	
-	公司
-	
-	corporate
-	
-	corporate finance/planning/strategy 公司的
-	corporate body 法人
-	corporate responsibility 共同的责任
-	
 	2692	 	string
 	
 	细绳；线；带子
@@ -5146,7 +5127,6 @@
 	
 	尤指小说中的）描述，叙述
 	
-	3124	 	photographer
 	3125	 	helicopter
 	3126	 	Catholic
 	
@@ -9406,55 +9386,192 @@
 	意图
 
 	4002	 	isolate
+	4003		lewd
+
+	adj 淫秽的
+	
+	69	 	product
+
+	产品；产物	
+
+	961	 	production
+
+	生产；制作
+
 	4005	 	productive
+
+	adj 高产的
+	adj 有效益的
+
 	4006	 	assembly
+
+	N 议会，大会
+	N 装配。 assembly line 组装线
+
 	4007	 	civic
+
+	ADJ 公民的；civic engagement/公民参与
+
 	4008	 	silk
+
+	N/Adj 丝绸；丝制品
+
 	4009	 	magnitude
+
+	N 数量级；规模；重要性
+
 	4010	 	steep
+
+	ADJ 陡峭的；不合理多的
+
 	4011	 	hostage
 	4012	 	collector
+
+	收藏家
+	
+	926	 	popular
 	4013	 	popularity
 	4014	 	kiss
 	4015	 	alien
 	4016	 	dynamic
 	4017	 	scary
+
+	ADJ 惊恐的
+
 	4018	 	equation
+
+	N 方程式
+
 	4019	 	angel
 	4020	 	switch
 	4021	 	offering
 	4022	 	rage
+
+	N/V 愤怒；发怒
+	
+	1651	 	photograph
+
+	相片；照片
+
+	3124	 	photographer
+
+	摄影师
+	
 	4023	 	photography
+
+	N 摄影
+
 	4024	 	repair
 	4025	 	toilet
 	4026	 	disappointed
 	4027	 	precious
+
+	adj. 宝贵的；珍贵的；矫揉造作的
+
 	4028	 	prohibit
-	4029	 	representative
+
+	vt. 阻止，禁止
+	
+	6907	 	prohibition
+
+	n. 禁令,禁律
+
 	4030	 	content
+
+	N 内容；包含之物
+	ADJ 满足
+
+	6652	 	contention
+
+	N 争论；观点
+
+	9128	 	contentious
+
+	adj. 容易引起争论的,好争论的
+
+	9902	 	discontent
+
+	n. 不满
+
 	4031	 	realistic
+
+	adj. 现实的，实际可行的；现实主义的
+	
 	4032	 	Russian
 	4033	 	hidden
 	4034	 	command
 	4035	 	tender
 	4036	 	wake
 	4037	 	gathering
+
+	N 集会
+
 	4038	 	outstanding
 	4039	 	stumble
+
+	V出错 / 跌跌撞撞
+	stumble upon 偶然发现
+	stumble on 无意中发现；偶然遇到，碰巧找到
+	stumble across 偶然发现
+
 	4040	 	lonely
 	4041	 	automobile
+
+	汽车
+
 	4042	 	artificial
 	4043	 	dawn
+
+	n. 黎明，拂晓
+
 	4044	 	abstract
 	4045	 	descend
+
+	V下降/下去
+
 	4046	 	silly
 	4047	 	hook
+
+	勾住
+	
 	4048	 	tide
+
+	n. 潮汐；
+	趋势，潮流
+
 	4049	 	shared
 	4050	 	hopefully
 	4051	 	readily
+
+	ADV 容易的 readily available容易获取
+
 	4052	 	cooperate
+
+	vi. 合作；配合，协助
+	
+	2691	 	cooperation
+	
+	合作；协作
+	
+	4289	 	cooperative
+
+	adj. 合作的, 协作的
+
+	2626	 	corporation
+	
+	公司
+	
+	corporate
+	
+	corporate finance/planning/strategy 公司的
+	corporate body 法人
+	corporate responsibility 共同的责任
+	
+	
 	4053	 	revolutionary
+
+	adj. 革命的
+
 	4054	 	romance
 	4055	 	hardware
 	4056	 	pillow
@@ -9683,7 +9800,6 @@
 	4286	 	skull
 	4287	 	self-esteem
 	4288	 	ease
-	4289	 	cooperative
 	4290	 	manipulate
 	4291	 	bee
 	4292	 	practitioner
@@ -10484,6 +10600,9 @@
 	5123	 	lyrics
 	5124	 	neglect
 	5125	 	gambling
+
+	赌博
+
 	5126	 	ward
 	5127	 	warfare
 	5128	 	mound
@@ -11960,7 +12079,6 @@
 	6649	 	craft
 	6650	 	beneficiary
 	6651	 	helpless
-	6652	 	contention
 	6653	 	relevance
 	6654	 	ballet
 	6655	 	hobby
@@ -12205,7 +12323,6 @@
 	6904	 	polar
 	6905	 	bass
 	6906	 	puppy
-	6907	 	prohibition
 	6908	 	coconut
 	6909	 	median
 	6910	 	remainder
@@ -12543,6 +12660,9 @@
 	7248	 	screw
 	7249	 	someplace
 	7250	 	harass
+
+	verb 骚扰；侵扰
+
 	7251	 	behalf
 	7252	 	energetic
 	7253	 	ethic
@@ -14382,7 +14502,6 @@
 	9125	 	plywood
 	9126	 	apparel
 	9127	 	tense
-	9128	 	contentious
 	9129	 	accomplished
 	9130	 	frail
 	9131	 	trumpet
@@ -15151,7 +15270,6 @@
 	
 	9900	 	poignant
 	9901	 	precursor
-	9902	 	discontent
 	9903	 	swoop
 	9904	 	marketer
 	9905	 	speedy
