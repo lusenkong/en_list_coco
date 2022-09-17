@@ -9395,7 +9395,11 @@
 
 	adj 高产的
 	adj 有效益的
-
+	
+	4196	 	productivity
+	
+	生产率；生产效率
+	
 	4006	 	assembly
 
 	N 议会，大会
@@ -9805,69 +9809,175 @@
 	4132	 	rocket
 	4133	 	donate
 	4134	 	inmate
+	
+	（监狱或精神病院等的）同住者；同狱犯人；同病房者
+	
 	4135	 	tackle
+	
+	 应付，处理，解决（难题或局面）
+	
 	4136	 	dynamics
+	
+	n. 动力学、力学
+	（人或事物）相互作用的方式，动态
+	
 	4137	 	bow
 	4138	 	ours
-	4139	 	senior
 	4140	 	dignity
+	
+	 庄重；庄严；尊严
+	
 	4141	 	carpet
+	
+	地毯
+	
 	4142	 	parental
+	
+	父亲的；母亲的；父母的；双亲的
+	
 	4143	 	bubble
 	4144	 	heat
 	4145	 	buddy
 	4146	 	barn
+	
+	谷仓；畜棚；仓房
+	
 	4147	 	sword
 	4148	 	flash
 	4149	 	seventh
+	
+	n. 第七；七分之一
+	adj. 第七的；七分之一的
+	
 	4150	 	glory
 	4152	 	protective
+	
+	 保护的；防护的
+	
 	4153	 	tuck
+	
+	把（衣服、纸张等的边缘）塞进，折叠，卷起
+	
 	4154	 	drum
+	
+	 鼓
+	
 	4155	 	faint
-	4156	 	post
+	
+	光、声、味）微弱的，不清楚的
+	
 	4157	 	queen
 	4158	 	dilemma
 	4159	 	input
 	4160	 	specialize
+	
+	专门研究（或从事）；专攻
+	
 	4161	 	northeast
 	4162	 	shallow
+	
+	浅的
+	
 	4163	 	liability
+	
+	（法律上对某事物的）责任，义务
+	
 	4164	 	sail
+	
+	（船）航行；（人）乘船航行
+	
 	4165	 	merchant
+	
+	商人；批发商；（尤指）进出口批发商
+	
 	4166	 	stadium
+	
+	 体育场；运动场
+	
 	4167	 	improved
 	4168	 	bloody
 	4169	 	defeat
 	4170	 	associated
+	
+	有关联的；相关的
+	
 	4171	 	withdrawal
+	
+	撤走；收回；取回
+	
 	4172	 	refrigerator
+	
+	n. 冰箱
+	
 	4173	 	nest
 	4174	 	near
 	4175	 	thoroughly
+	
+	adv 完全的，彻底的
+	adv 仔细地
+	
 	4176	 	lane
+	
+	（乡间）小路
+	
 	4177	 	ancestor
 	4178	 	condemn
+	
+	谴责
+	
 	4179	 	steam
+	
+	水蒸气；蒸汽
+	
 	4180	 	accent
 	4181	 	escape
 	4182	 	optimistic
+	
+	adj 乐观的；抱乐观看法的
+	
+	5471	 	optimism
+	
+	 乐观；乐观主义
+	
+	7115	 	optimal
+	
+	adj. 最理想的；最佳的
+	
 	4184	 	cage
 	4185	 	equip
 	4186	 	shrimp
+	
+	 虾；小虾
+	
 	4187	 	homeland
 	4188	 	exchange
 	4189	 	rack
+	
+	支架；架子
+	
 	4190	 	costume
+	
+	（某地或某历史时期的）服装，装束
+	
 	4191	 	wolf
 	4192	 	courtroom
+	
+	 法庭；审判室
+	
 	4193	 	statute
+	
+	成文法；法令；法规
+	
 	4194	 	cartoon
 	4195	 	besides
-	4196	 	productivity
 	4197	 	grin
+	
+	露齿而笑；咧着嘴笑；粲然而笑
+	
 	4198	 	symbolic
-	4199	 	seal
+	
+	adj 使用象征的；作为象征的；象征性的  symbolic of peace
+	
 	
 	-------
 	
@@ -11096,7 +11206,6 @@
 	5468	 	innocence
 	5469	 	attribute
 	5470	 	evolutionary
-	5471	 	optimism
 	5472	 	native
 	5473	 	skinny
 	5474	 	posture
@@ -12681,7 +12790,6 @@
 	7112	 	kidnap
 	7113	 	earnest
 	7114	 	apt
-	7115	 	optimal
 	7116	 	simplicity
 	7117	 	staple
 	7118	 	canned
