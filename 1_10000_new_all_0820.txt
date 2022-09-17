@@ -9769,14 +9769,38 @@
 	汽油
 	
 	4120	 	stiff
+	
+	adj  僵硬的 stiff structure  僵硬的结构
+	adj 激烈的/困难的  stiff competition 激烈的竞争
+	
 	4121	 	output
 	4122	 	nominee
+	
+	被提名人；被任命者
+	
 	4125	 	diabetes
+	
+	n. <医>糖尿病
+	
 	4126	 	slap
+	
+	（用手掌）打，拍，掴
+	
 	4127	 	toxic
+	
+	有毒的；引起中毒的
+	
 	4128	 	alleged
+	
+	verb （未提出证据）断言，指称，声称
+	adj alleged attacker/victim/killer (= that sb says is one)
+	据称的袭击者／受害者／杀人凶手
+	
 	4129	 	jaw
 	4130	 	grief
+	
+	（尤指因某人去世引起的）悲伤，悲痛，伤心
+	
 	4131	 	mysterious
 	4132	 	rocket
 	4133	 	donate

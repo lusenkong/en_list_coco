@@ -3,6 +3,7 @@ import sys
 import random
 
 if __name__ =="__main__":
+    
     vocalibary = sys.argv[1]
     last_row = int(sys.argv[2])
     select_words = int(sys.argv[3])
