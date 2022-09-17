@@ -1646,7 +1646,6 @@
 	1605	 	greatest
 	1607	 	surround
 	1608	 	athlete
-	1609	 	invite
 	1611	 	carefully
 	1612	 	soul
 	1613	 	scientific
@@ -9697,28 +9696,78 @@
 
 	法定货币
 	
+	4099		remit
+	
+	v 汇付；汇款
+	
+	4099		portfolio
+	
+	n投资组合
+	
 	-------
 	
 	4100	 	trailer
+	
+	n. 预告片 movie trailer ; video trailer
+	n ；拖车；
+	
 	4101	 	mate
 	4102	 	o''clock
 	4103	 	Greek
+	
+	希腊人；古希腊人
+	
 	4104	 	genius
+	
+	天才；天资；天赋
+	
 	4105	 	monument
+	
+	纪念碑
+	
 	4106	 	bid
+	
+	出（价）；（尤指拍卖中）喊价
+	
 	4107	 	quest
+	
+	noun/verb 探索，寻找，追求（幸福等）
+	
 	4108	 	sacrifice
+	
+	noun/verb 牺牲；舍弃
+	
+	1609	 	invite
 	4109	 	invitation
+	
+	（口头或书面的）邀请
+	
 	4110	 	accuracy
 	4111	 	juror
+	
+	n. 审查委员，陪审员
+	
 	4112	 	officially
+	
+	adv 正式地；官方地；公开地
+	
 	4113	 	broker
+	
+	noun 经纪人；掮客
+	verb 安排，协商
+	
 	4114	 	treasure
 	4115	 	loyalty
+	
+	忠诚；忠实；忠心耿耿
+	
 	4116	 	credit
 	4117	 	shock
 	4118	 	talented
 	4119	 	gasoline
+	
+	汽油
+	
 	4120	 	stiff
 	4121	 	output
 	4122	 	nominee
