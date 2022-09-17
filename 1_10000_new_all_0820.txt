@@ -9680,6 +9680,22 @@
 	4099	 	quantity
 
 	数目
+
+	4099		haptic
+
+	触觉的 haptic feedback触摸反馈
+
+	7664	 	preview
+
+	预告；总览
+
+	4099		phishing
+	
+	网络钓鱼诈骗
+
+	4099		fiat
+
+	法定货币
 	
 	-------
 	
@@ -12773,7 +12789,6 @@
 	7294	 	takeover
 	7295	 	dwell
 	7296	 	milky
-	7297	 	forecast
 	7298	 	plug
 	7299	 	tangible
 	
@@ -13141,7 +13156,6 @@
 	7661	 	alleviate
 	7662	 	persona
 	7663	 	founding
-	7664	 	preview
 	7665	 	protagonist
 	7666	 	inn
 	7667	 	undercover
