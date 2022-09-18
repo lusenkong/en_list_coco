@@ -2095,7 +2095,6 @@
 	1954	 	overall
 	1955	 	divide
 	1957	 	terrible
-	1958	 	oppose
 	1960	 	route
 	1961	 	multiple
 	1963	 	question
@@ -9986,63 +9985,213 @@
 	4202	 	aunt
 	4204	 	rock
 	4205	 	hostile
+
+	adj. 怀有敌意的, 不友善的
+
 	4206	 	root
 	4207	 	conceive
+
+	vt. 构思；怀孕
+
 	4208	 	combined
+
+	adj. 结合的；组合的
+
 	4209	 	instantly
 	4210	 	bankruptcy
+
+	n 破产
+
 	4211	 	vaccine
+
+	n. 疫苗;痘苗
+	
 	4212	 	bonus
+
+	n. 奖金；红利；额外津贴
+
 	4213	 	collaboration
+	
+	n. 合作, 协作
+	通敌
+	
+	6482	 	collaborate
+	
+	vi. 合作
+	勾结叛国
+	n. 协作者，合作者；勾结者
+	
+	6516	 	collaborative
+
+	dj. 合作的,协作的,协力完成的
+
+	8568	 	collaborator
+
+	n. 合作者;共同研究者
+
 	4214	 	mixed
+	1958	 	oppose
+
+	vt. & vi. 反对；使相对
+
 	4215	 	opposed
+
+	v. 使对立；反对（oppose的过去分词）
+
 	4216	 	orbit
+
+	n. 轨道
+	vt. 绕…轨道而行
+
 	4217	 	grasp
+
+	vt. 抓住；领会
+	vi. 抓
+
 	4218	 	patience
 	4219	 	spite
+
+	in spite of 尽管；不管，不顾
+	n. 恶意；怨恨；不顾
+	vt. 刁难；使恼怒
+
 	4220	 	tropical
+
+	adj. 热带的
+
 	4221	 	voting
 	4222	 	patrol
+
+	n. 巡逻；巡逻队；侦察队
+	vt. 巡逻；巡查
+
 	4223	 	willingness
-	4224	 	position
+
+	n. 自愿;乐意
+
 	4225	 	revelation
+
+	n. 显露, 泄露, 透露, 揭露
+	被揭露的事, 暴露出来的事
+
 	4227	 	calm
 	4228	 	jewelry
 	4229	 	Cuban
 	4230	 	haul
+
+	vt. 拖运；拖拉
+
 	4231	 	concede
-	4232	 	trace
+
+	vt. & vi. 承认	
+
 	4233	 	wagon
+
+	n. 四轮的运货马车
+
 	4234	 	afterward
+
+	adv. <美>以后, 过后, 后来
+	
 	4235	 	spectacular
+
+	adj. 壮观的, 雄伟的, 引人入胜的
+
 	4236	 	ruin
+
+	vt. 破坏，毁掉
+
 	4237	 	sheer
+
+	adj. 完全的；十足的
+
 	4238	 	prior
+
+	adj/adv. 在前，居先
+
 	4239	 	immune
+
+	adj. 免疫的，有免疫力的；不受影响的
+
 	4241	 	ass
 	4242	 	alongside
+
+	adv. 靠着边，沿着边
+	(表示伴随)与…一起，与…一道
+
 	4243	 	bush
+
+	n. 灌木(丛)
+
 	4244	 	exotic
+
+	adj. 由外国引进的, 非本地的
+	奇异的, 醒目的, 吸引人的
+
 	4245	 	fascinating
 	4246	 	secure
 	4247	 	clip
+
+	vt. 修剪；夹牢；痛打
+	vi. 修剪
+
 	4248	 	thigh
+
+	n. 大腿，股
+
 	4249	 	bull
 	4250	 	drawer
+
+	n. 抽屉
+	
 	4251	 	regard
 	4252	 	sheep
 	4253	 	discourage
 	4254	 	coordinator
+
+	n. 协调者
+	
+	4897	 	coordinate
+
+	vt. 使协调；使调和
+	n. 〈数〉坐标
+
+	6148	 	coordination
+
+	n. 协调
+	和谐
+
 	4255	 	ideological
+
+	adj. 意识形态的;思想体系的
+
 	4256	 	runner
 	4257	 	secular
+
+	adj. 世俗的；
+
 	4258	 	intimate
+
+	adj 亲密的；密切的 intimate friends
+	adj 隐私的；温馨的 an intimate restaurant
+	verb 暗示 宣布
+	
 	4259	 	empire
 	4260	 	cab
+
+	出租车
+
 	4261	 	divorce
 	4262	 	exam
 	4263	 	documentary
+
+	n. 纪录片
+	adj. 文件的, 文书的
+
 	4264	 	neutral
+
+	adj. 中立的，中性的；中立国的；非彩色的
+
 	4265	 	biology
 	4266	 	flexible
 	4267	 	progressive
@@ -10650,7 +10799,6 @@
 	4894	 	harvest
 	4895	 	consecutive
 	4896	 	republican
-	4897	 	coordinate
 	4898	 	worldwide
 	4899	 	within
 	
@@ -11859,7 +12007,6 @@
 	6145	 	motorcycle
 	6146	 	copyright
 	6147	 	miniature
-	6148	 	coordination
 	6149	 	insurer
 	6150	 	unbelievable
 	6151	 	ripe
@@ -12179,7 +12326,6 @@
 	6477	 	flashlight
 	6480	 	varied
 	6481	 	hammer
-	6482	 	collaborate
 	6483	 	succession
 	6484	 	tricky
 	6485	 	follow-up
@@ -12213,7 +12359,6 @@
 	6512	 	clause
 	6513	 	mature
 	6514	 	committed
-	6516	 	collaborative
 	6517	 	bulletin
 	6518	 	darling
 	6519	 	ecology
@@ -14213,7 +14358,6 @@
 	8565	 	vie
 	8566	 	present
 	8567	 	jeopardy
-	8568	 	collaborator
 	8569	 	unfinished
 	8570	 	materialize
 	8571	 	hop
@@ -14954,7 +15098,6 @@
 	9318	 	undercut
 	9319	 	touching
 	9320	 	shun
-	9321	 	coordinate
 	9322	 	binding
 	9323	 	eradicate
 	9324	 	underwater
