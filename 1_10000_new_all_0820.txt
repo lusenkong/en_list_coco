@@ -3933,7 +3933,6 @@
 	非凡的；奇异的；显著的；引人注目的
 	
 	2731	 	occupy
-	2732	 	statistics
 	2733	 	shopping
 	2734	 	cousin
 	2735	 	encounter
@@ -10193,134 +10192,343 @@
 	adj. 中立的，中性的；中立国的；非彩色的
 
 	4265	 	biology
+
+	生物学
+
 	4266	 	flexible
 	4267	 	progressive
+
+	adj. 不断前进的, 有进展的, 逐渐上升的
+	进步的, 先进的
+
 	4268	 	web
 	4269	 	conspiracy
+
+	n. 阴谋, 密谋
+
 	4270	 	catch
 	4272	 	republic
+
+	n. 共和国，共和政体
+
 	4274	 	terrific
 	4275	 	whale
+
+	n. 鲸
+
 	4276	 	functional
+
+	adj. 有用的, 实用的
+
 	4277	 	star
-	4278	 	draft
 	4279	 	instinct
+
+	n. 本能，直觉；天性
+
 	4280	 	teammate
 	4281	 	aluminum
+
+	n. 铝
+
 	4282	 	whoever
 	4283	 	ministry
+
+	n. （政府的）部门
+
 	4284	 	verdict
+
+	n. (陪审团的)裁决, 裁定
+
 	4286	 	skull
 	4287	 	self-esteem
+
+	自尊
+
 	4288	 	ease
+
+	vt. 减轻，缓和；使安心
+
 	4290	 	manipulate
+
+	vt. 熟练控制[操作]
+
 	4291	 	bee
 	4292	 	practitioner
+
+	从业者 As a public health practitioner
+
 	4293	 	loop
 	4294	 	edit
 	4295	 	whip
+
+	vi. 抽打
+
 	4296	 	puzzle
 	4297	 	mushroom
 	4298	 	subsidy
+	
+	n. 津贴；补助金；补贴
+
 	4299	 	boil
+	
+	vi. 煮沸，沸腾；激动，激昂
 	
 	-------
 	
 	4300	 	tragic
+
+	adj. 悲剧的；悲痛的，不幸的
+
 	4301	 	mathematics
 	4303	 	jar
+
+	n. 罐子
+
 	4305	 	earthquake
 	4306	 	pork
+
+	n. 猪肉
+
 	4307	 	creativity
+
+	n. 创造性，创造力；创作能力
+
 	4308	 	safely
 	4309	 	underlying
+
+	adj. 根本的, 基础的
+
 	4310	 	dessert
 	4311	 	sympathy
 	4312	 	fisherman
 	4313	 	incredibly
 	4314	 	isolation
 	4315	 	sock
+
+	n. 短袜
+
 	4316	 	near
 	4317	 	jump
 	4318	 	eleven
 	4319	 	sexy
 	4320	 	entrepreneur
+
+	n. 〈法〉企业家
+
 	4321	 	syndrome
+
+	n. 综合征
+
 	4322	 	bureau
+	
+	局
+
 	4323	 	seat
 	4324	 	workplace
-	4325	 	ambition
 	4326	 	touchdown
+
+	棒球 触地得分
+
 	4327	 	utilize
+
+	vt. 利用
+
 	4328	 	breeze
+
+	vi. 吹微风；逃走
+
 	4329	 	costly
+
+	adj. 昂贵的；代价高的
+	
+	4325	 	ambition
 	4330	 	ambitious
 	4331	 	Christianity
+
+	n. 基督教
+	
+	5818	 	presume
+
+	vt. 假定；推测；擅自；意味着
+
 	4332	 	presumably
+
+	adv. 据推测, 大概, 可能
+
 	4333	 	influential
+
+	adj. 有影响的, 有权势的
+
 	4334	 	translation
 	4335	 	uncertain
+
+	adj. 不确定的；不确信的
+
 	4336	 	dissolve
+
+	vi. 溶解；解散；消失
+
 	4337	 	object
 	4338	 	statistical
+
+	adj. 统计学的, 以数据表示的
+	
+	2732	 	statistics
+
+	统计资料, 统计数字
+	统计学
+
+	9861	 	statistic
+
+	adj. 统计的,统计学的
+
+	5546	 	statistically
+
+	adv. 统计上地,统计地
+
 	4339	 	gut
+
+	胆量
+
 	4340	 	metropolitan
+
+	adj. 大都会的, 大城市的
+
 	4341	 	rolling
+
+	adj. 滚动的
+
 	4342	 	aesthetic
+
+	adj. 有关美的, 美学的
+
 	4343	 	spell
 	4344	 	insert
 	4345	 	booth
+
+	电话亭
+
 	4346	 	helmet
 	4347	 	waist
+
+	n. 腰，腰部
+
 	4348	 	expected
 	4349	 	lion
 	4350	 	accomplishment
 	4351	 	royal
 	4352	 	panic
-	4353	 	cast
 	4354	 	crush
 	4355	 	actively
+	
+	adv. 积极地；活跃地
+
 	4356	 	cliff
+
+	n. 悬崖; 峭壁
+
 	4357	 	minimal
+
+	adj. 〈正式〉最小的; 极少的
+
 	4358	 	cord
+
+	n. 束缚；绳索
+	脐带
+
 	4359	 	fortunately
 	4360	 	cocaine
 	4361	 	illusion
 	4362	 	anonymous
 	4363	 	tolerate
 	4364	 	appreciation
+
+	n. 欣赏,鉴赏,赏识
+
 	4365	 	commissioner
+
+	n. 专员, 长官
+
 	4366	 	harm
 	4367	 	flexibility
 	4369	 	scramble
+
+	vi. 快速爬行，匍匐前进；攀登
+	
 	4370	 	casino
+
+	n. 赌场;娱乐场
+
 	4371	 	tumor
+
+	n. 肿瘤
+
 	4372	 	decorate
+
+	vt. 装饰
+
 	4373	 	sort
+
+	n. 种类；方式；品质
+	vi. 分类；交往；协调
+
 	4374	 	charge
 	4375	 	pulse
 	4376	 	equivalent
+
+	adj. 等同的，等效的
+
 	4377	 	fixed
 	4378	 	experienced
 	4379	 	donation
 	4380	 	diary
+
+	n. 日记, 日记簿
+
 	4381	 	sibling
+
+	n. 兄弟姊妹
+
 	4382	 	irony
+
+	n. 反语, 冷嘲
+
 	4383	 	spoon
 	4384	 	midst
+
+	n. 当中，中间
+
 	4385	 	alley
+
+	n. 小径；小巷；小路
+
 	4387	 	interact
+
+	vi. 相互作用[影响], 互相配合
+
 	4388	 	soap
 	4389	 	cute
 	4390	 	rival
+
+	n. 竞争对手
+	vt. 与…竞争, 与…匹敌
+
 	4392	 	punch
 	4393	 	pin
 	4394	 	hockey
+
+	. 冰球；曲棍球
+
 	4395	 	passing
 	4396	 	persist
+
+	persist 用于褒义指坚持继续做某事，但更常用于贬义，指不听劝告，顽固坚持。
+
 	4397	 	supplier
 	4398	 	known
 	4399	 	momentum
+
+	n. 动力；动量；冲力；势头
 	
 	-------
 	
@@ -11428,7 +11636,6 @@
 	5543	 	hometown
 	5544	 	reply
 	5545	 	financially
-	5546	 	statistically
 	5547	 	tumble
 	5548	 	backup
 	5550	 	grid
@@ -11687,7 +11894,6 @@
 	5814	 	dim
 	5815	 	sunset
 	5816	 	facial
-	5818	 	presume
 	5819	 	empty
 	5820	 	x-ray
 	5821	 	nearest
@@ -15630,7 +15836,6 @@
 	9858	 	acquaint
 	9859	 	best
 	9860	 	perk
-	9861	 	statistic
 	9862	 	skater
 	9863	 	afflict
 	9864	 	defiant
