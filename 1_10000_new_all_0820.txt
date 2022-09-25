@@ -666,6 +666,11 @@
 	664	 	west
 	665	 	sport
 	666	 	board
+	
+	n（公司或其他机构的）董事会，委员会，理事会
+	n 木板
+	n 甲板
+	
 	667	 	seek
 	668	 	per
 	670	 	officer
@@ -835,6 +840,9 @@
 	837	 	sort
 	838	 	one
 	839	 	act
+	
+	N行动 法案
+	
 	840	 	ten
 	841	 	knowledge
 	842	 	gun
@@ -6952,7 +6960,8 @@
 	
 	2112	 	depression
 	
-	抑郁；沮丧；消沉，衰退
+	n 抑郁；沮丧；消沉，衰退
+	n 经济衰退
 	
 	3476	 	candy
 	3477	 	evil
@@ -10530,48 +10539,125 @@
 
 	n. 动力；动量；冲力；势头
 	
+	4399		treasury
+	
+	财政部
+	
 	-------
 	
 	4401	 	shed
+	
+	简易房，棚（用于贮藏物品）
+	
 	4402	 	liquid
+	
+	液体
+	
 	4403	 	icon
 	4404	 	elephant
 	4405	 	consequently
+	
+	因此；所以
+	
 	4407	 	associate
+	
+	 联想；联系
+	 交往；（尤指）混在一起
+	
 	4408	 	franchise
+	
+	公司授予的）特许经销权；（国家授予的）特别经营权，特许
+	
 	4409	 	correctly
 	4410	 	mentally
 	4411	 	foster
+	
+	v 促进；助长；培养；鼓励
+	v 代养，抚育，照料（他人子女一段时间）
+	
 	4412	 	bicycle
 	4413	 	encouraging
 	4414	 	cheat
-	4415	 	access
 	4416	 	heal
+	
+	（使）康复，复原
+	
 	4417	 	fever
 	4418	 	filter
 	4419	 	rabbit
 	4420	 	coin
+	
+	（一枚）硬币；金属货币
+	
 	4421	 	exploit
+	
+	利用 运用；利用；发挥（…为自己谋利）(贬义)
+	He exploited his father's name to get himself a job.
+	他利用他父亲的名声为自己找到一份工作。
+	
+	6993	 	exploitation
+	
+	n 剥削
+	
 	4422	 	accessible
+	
+	可到达的；可接近的；可进入的；可使用的；可见到的
+	
 	4424	 	sensation
+	
+	感觉；知觉
+	
 	4425	 	partially
 	4426	 	stay
 	4427	 	upstairs
+	
+	（或向）楼上；在（或向）上一层
+	
 	4428	 	dried
+	
+	干的；干燥的
+	
 	4429	 	minimum
+	
+	最低的；最小的；最低限度的
+	
 	4430	 	pro
 	4432	 	shove
 	4433	 	backyard
+	
+	（屋后常有围墙的）后院
+	
 	4434	 	charter
+	
+	宪章
+	
 	4435	 	stove
+	
+	（用于取暖的）炉子，火炉
+	
 	4436	 	consent
+	
+	同意；准许；允许
+	
 	4437	 	comprise
+	
+	包括；包含；由…组成
+	
 	4438	 	reminder
 	4439	 	alike
 	4440	 	placement
+	
+	（对人的）安置，安排
+	
 	4441	 	dough
+	
+	（用于制面包和糕点的）生面团
+	
 	4442	 	grandchild
 	4443	 	dam
+	
+	 水坝；拦河坝
+	
 	4444	 	reportedly
 	4445	 	well-known
 	4446	 	surrounding
@@ -10883,6 +10969,9 @@
 	4762	 	removal
 	4763	 	autonomy
 	4764	 	enact
+	
+	vt. 制定(法律)；通过(法案)
+	
 	4765	 	round
 	4766	 	thread
 	4768	 	landmark
@@ -11238,6 +11327,9 @@
 	5138	 	advocacy
 	5139	 	tilt
 	5140	 	monetary
+	
+	adj. 财政的；货币的
+	
 	5141	 	prosperity
 	5142	 	antibiotic
 	5143	 	joint
@@ -11755,6 +11847,9 @@
 	5673	 	evenly
 	5674	 	precede
 	5675	 	dual
+	
+	 两部分的；双重的；双的
+	
 	5677	 	shield
 	5678	 	newcomer
 	5679	 	triangle
@@ -13020,7 +13115,6 @@
 	6990	 	overwhelmingly
 	6991	 	crater
 	6992	 	enrich
-	6993	 	exploitation
 	6994	 	submarine
 	6995	 	ditch
 	6996	 	clown
@@ -13686,6 +13780,9 @@
 	7659	 	orphan
 	7660	 	brief
 	7661	 	alleviate
+	
+	verb 减轻；缓和；缓解
+	
 	7662	 	persona
 	7663	 	founding
 	7665	 	protagonist
