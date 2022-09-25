@@ -1363,7 +1363,6 @@
 	1357	 	cry
 	1358	 	equipment
 	1359	 	worth
-	1360	 	associate
 	1362	 	warm
 	1363	 	aspect
 	1364	 	result
@@ -10661,58 +10660,159 @@
 	4444	 	reportedly
 	4445	 	well-known
 	4446	 	surrounding
+
+	n. 环境;周围的事物
+	adj. 周围的;附近的
+
 	4447	 	ecological
+
+	adj. 生态(学)的
+
 	4448	 	outfit
+
+	n. 全套装备，全套工具
+	n 一套衣服
+	
+	5697	 	precedent
+
+	n 先例	
+
 	4449	 	unprecedented
+
+	adj. 前所未有的, 无前例的
+
 	4450	 	columnist
+
+	专栏作家
+
 	4451	 	workout
 	4452	 	preliminary
+
+	adj 初步的，预备的，开端的
+
 	4453	 	patent
+
+	N专利
+
 	4454	 	shy
 	4455	 	quote
+
+	引用，引述
+
 	4456	 	trash
 	4457	 	disabled
 	4458	 	gross
+
+	oh gross!!!
+	adj 粗暴的
+	adj 总的，毛的
+
 	4459	 	damn
 	4460	 	hormone
 	4461	 	texture
+
+	质地，质感
+
 	4462	 	counter
 	4463	 	pencil
-	4464	 	associate
 	4465	 	frontier
+
+	N 边界 ； 边境
+	adj  前沿的
+
 	4466	 	spray
+
+	浪花；喷雾
+
 	4467	 	bet
 	4468	 	disclose
+
+	揭露；透露，泄露
+
 	4469	 	custody
+
+	N 监护权
+	N 拘留
+	
+
 	4470	 	banker
 	4471	 	beast
 	4472	 	interfere
+
+	干预；干涉；调停
+
 	4473	 	oak
+
+	橡树
+
 	4474	 	case
 	4475	 	eighth
 	4476	 	notebook
 	4477	 	outline
+
+	v n  概述；大纲
+
 	4478	 	gaze
+
+	凝视
+
 	4479	 	attendance
 	4480	 	speculation
+
+	猜测 才想
+
 	4481	 	uncover
 	4482	 	behalf
+
+	n. 方面, 利益, 赞同
+
 	4484	 	shark
 	4485	 	reward
 	4486	 	mill
+
+	n. 磨坊；磨粉机
+
 	4487	 	installation
 	4488	 	stimulate
+
+	vt. 刺激；激励
+
 	4489	 	tag
 	4490	 	vertical
+
+	adj. 垂直的，直立的；
+
 	4491	 	swimming
 	4492	 	fleet
+	
+	adj. 快速的，敏捷的
+	n. 舰队；小河；港湾
+
 	4493	 	catalog
 	4494	 	outsider
+
+	n. 外人；
+
 	4495	 	sacrifice
+
+	v n. 牺牲, 舍身
+
 	4496	 	desperately
+
+	adv. 绝望地；不顾一切地，拼命地
+
 	4497	 	stance
+
+	n. 姿态；
+
 	4498	 	compel
+
+	vt. 强迫, 使不得不
+
 	4499	 	sensitivity
+
+	n. 敏感;敏感度
+
 	
 	-------
 	
@@ -11869,7 +11969,6 @@
 	5694	 	nationalism
 	5695	 	textile
 	5696	 	contrary
-	5697	 	precedent
 	5698	 	visiting
 	5699	 	eternal
 	
