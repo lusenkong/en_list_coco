@@ -1312,7 +1312,6 @@
 	The statement is open to various understandings
 	
 	1305	 	average
-	1306	 	emerge
 	1307	 	advantage
 	1308	 	quick
 	1310	 	leadership
@@ -1788,7 +1787,6 @@
 	1734	 	cash
 	1735	 	museum
 	1736	 	beauty
-	1737	 	emergency
 	1738	 	unique
 	
 	Everyone's fingerprints are unique
@@ -3008,7 +3006,6 @@
 	2433	 	surely
 	2434	 	tower
 	2435	 	smoke
-	2436	 	confront
 	2437	 	pure
 	2438	 	glance
 	
@@ -9951,10 +9948,6 @@
 	
 	4184	 	cage
 	4185	 	equip
-	4186	 	shrimp
-	
-	 虾；小虾
-	
 	4187	 	homeland
 	4188	 	exchange
 	4189	 	rack
@@ -10004,7 +9997,6 @@
 
 	adj. 结合的；组合的
 
-	4209	 	instantly
 	4210	 	bankruptcy
 
 	n 破产
@@ -10817,38 +10809,129 @@
 	-------
 	
 	4500	 	someday
+
+	adv. 有一天，有朝一日
+
 	4501	 	instant
+
+	n. 片刻, 顷刻, 刹那
+	adj. 立即的
+
+	4209	 	instantly
 	4502	 	debut
+
+	首次演出，首张专辑
+
 	4503	 	proclaim
+
+	vt. 声明；宣告，公布；
+
 	4504	 	worldwide
 	4505	 	hike
+
+	n. (在乡间)徒步旅行
+	〈口〉(数量、价格等)增加, 上升
+
 	4506	 	required
+	2436	 	confront
+	
+	1面临
+	2处理，解决
+	3对抗，面对
+
 	4507	 	confrontation
+
+	n. 对抗, 对抗的事物
+
 	4508	 	colorful
 	4509	 	ideal
+
+	adj. 理想的；完美的；
+
 	4511	 	trainer
 	4512	 	Thanksgiving
 	4513	 	scent
+
+	n. 气味，香味
+
 	4514	 	stack
+
+	n. 堆；堆叠
+	vi. 堆积，堆叠
+
 	4515	 	eyebrow
+
+	n. 眉毛
+
 	4516	 	sack
+
+	n. 麻袋, 包
+
 	4517	 	cease
+
+	vt. & vi. 停止, 终止, 结束
+
 	4518	 	inherit
 	4519	 	tray
+
+	n. 盘子, 托盘
+
 	4520	 	pioneer
+
+	n. 拓荒者；开发者
+
 	4522	 	textbook
+
+	n. 教科书, 课本
+
 	4523	 	uh
 	4524	 	nasty
+
+	adj. 下流的；肮脏的；
+
 	4525	 	shrink
+
+	vt. & vi. 收缩；退缩
+	
+	4186	 	shrimp
+	
+	 虾；小虾
+	
 	4526	 	model
+	1306	 	emerge
+
+	vi. 出现；显出；暴露
+
+	1737	 	emergency
+
+	n. 紧急情况, 不测事件, 非常时刻
+
 	4527	 	emerging
+
+	adj. 新兴的；出现的；形成的
+
 	4528	 	dot
 	4529	 	wheat
+
+	n. 小麦
+
 	4530	 	fierce
+
+	adj. 凶猛的；暴躁的；猛烈的
+
 	4531	 	envision
+	
+	vt. 想像,展望
+
 	4532	 	rational
+
+	adj. 理性的；合理的
+
 	4533	 	kingdom
 	4534	 	aisle
+
+	n. 过道, 通道
+
 	4535	 	weaken
 	4536	 	protocol
 	4538	 	vocal
@@ -11029,7 +11112,6 @@
 	4721	 	harmony
 	4722	 	solely
 	4723	 	tolerance
-	4724	 	instant
 	4725	 	goat
 	4726	 	arm
 	4727	 	blessing
@@ -13759,6 +13841,10 @@
 	7540	 	vibration
 	7541	 	startling
 	7542	 	default
+
+	默认
+	债务违约
+
 	7543	 	Czech
 	7544	 	sickness
 	7545	 	chaotic
