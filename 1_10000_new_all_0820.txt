@@ -2018,6 +2018,10 @@
 	1891	 	aside
 	1892	 	anywhere
 	1893	 	bond
+	
+	纽带，联系；
+	债券，公债
+	
 	1894	 	file
 	1895	 	pleasure
 	1896	 	master
@@ -13018,7 +13022,6 @@
 	-------
 	
 	6700	 	refine
-	6701	 	bond
 	6702	 	rivalry
 	6703	 	volatile
 	6704	 	sermon
