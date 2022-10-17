@@ -5,9 +5,9 @@ import random
 if __name__ =="__main__":
     
     vocalibary = sys.argv[1]
-    last_row = int(sys.argv[2])
-    select_words = int(sys.argv[3])
-    flag = int(sys.argv[4])
+
+    select_words = int(sys.argv[2])
+    flag = int(sys.argv[3])
 
     index_list = []
     index_hard_list = []
@@ -15,30 +15,37 @@ if __name__ =="__main__":
     lines = file.readlines()
     file.close()
     print("start")
-    if last_row >= len(lines):
-        exit(0)
+
+    max = 10001
 
     i = 0
     table_of_words = {}
-    while i < last_row+1:
+    while i < len(lines):
         if '\t \t' in lines[i]:
             sp = lines[i].strip().split(' ')
             sp1 = []
             sp1.append(sp[0].strip())
             sp1.append(sp[1].strip())
+            index  = sp[0].strip()
+            word = sp[1].strip()
+
+            if index in table_of_words.keys():
+                index = max
+                max+=1
+
             i+=1
             j = i
             label = ""
-            while j<last_row+1:
+            while j<len(lines):
                 if '\t \t' not in lines[j]:
                     label+=lines[j]
                     j+=1
                 else:
-                    table_of_words[sp1[0]] = [sp1[1],label.strip()]
-                    index_list.append(sp1[0])
+                    table_of_words[index] = [word,label.strip()]
+                    index_list.append(index)
 
                     if label.strip()!='':
-                        index_hard_list.append(sp1[0])
+                        index_hard_list.append(index)
                     break
         else:
             i+=1
@@ -51,4 +58,11 @@ if __name__ =="__main__":
         list_of_random_items = random.sample(index_hard_list, select_words)
         for index in list_of_random_items:
             print(index, '\t'+table_of_words[index][0]+'\t',table_of_words[index][1].replace('\n',';'))
-    
+
+    elif flag ==2:
+        list_of_random_items = random.sample(index_hard_list, select_words)
+        for index in list_of_random_items:
+            print(index, table_of_words[index][1].replace('\n',';'))
+        print('\n\n\n')
+        for index in list_of_random_items:
+            print(index, '\t'+table_of_words[index][0]+'\t',)

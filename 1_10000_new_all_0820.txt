@@ -1995,9 +1995,6 @@
 	1876	 	back
 	1877	 	range
 	1878	 	telephone
-	1879	 	perception
-	感知，洞察力
-	
 	1880	 	attract
 	1881	 	confidence
 	1882	 	bedroom
@@ -2018,10 +2015,6 @@
 	1891	 	aside
 	1892	 	anywhere
 	1893	 	bond
-	
-	纽带，联系；
-	债券，公债
-	
 	1894	 	file
 	1895	 	pleasure
 	1896	 	master
@@ -2462,6 +2455,10 @@
 	2183	 	perceive
 	
 	察觉，感知
+	
+	1879	 	perception
+	
+	感知，洞察力
 	
 	2184	 	comparison
 	2185	 	settlement
@@ -5216,6 +5213,8 @@
 	adj 最重要的；主要的
 	
 	noun 大学校长；学院院长
+
+	n 本金，资本
 	
 	3149	 	detailed
 	
@@ -10938,127 +10937,410 @@
 
 	4535	 	weaken
 	4536	 	protocol
+
+	；(尤指)议定的条款，议定书
+
 	4538	 	vocal
 	4539	 	marketplace
+	
+	n. 市场;集市
+
 	4540	 	openly
 	4541	 	unfair
 	4542	 	terrain
+
+	n. 地形,
+
 	4543	 	deploy
+
+	vt. (尤指军事行动)使展开；施展；部署
+
 	4544	 	risky
+
+	adj. 危险的；冒险的；
+
 	4545	 	pasta
+
+	意大利面
+
 	4546	 	genre
+
+	n. 类型；流派；（文学；艺术；音乐；电影）
+
 	4547	 	distract
+
+	vt. 转移；分心
+
 	4548	 	merit
+
+	长处，优点
+
 	4549	 	planner
 	4551	 	chunk
+
+	n. 大块；矮胖的人或物
+
 	4552	 	closest
 	4553	 	discount
 	4554	 	no
 	4555	 	ladder
+
+	n. 阶梯； corporate ladder公司晋升制度
+
 	4556	 	jungle
 	4557	 	migration
 	4559	 	invade
+
+	vt. 侵略；侵袭；
+
 	4560	 	hurricane
+
+	n. 飓风, (尤指西印度群岛的)旋风
+
 	4562	 	classify
+	
+	vt. 分类；分等
+
 	4563	 	wound
 	4564	 	coup
+
+	n. 政变
+
 	4565	 	aid
+
+	t. 帮助, 援助
+	n. 帮助, 援助, 救助
+
 	4566	 	ambassador
+
+	n. 大使, 使节
+
 	4567	 	density
+
+	n. 密集, 稠密
+
 	4568	 	supportive
+
+	adj. 支持的，拥护的；赞助的
+
 	4569	 	curiosity
+
+	n. 好奇心,
+
 	4570	 	skip
 	4571	 	aggression
+
+	侵略行为，侵犯行为
+
 	4572	 	stimulus
+
+	n. 刺激；激励；刺激物
+
 	4573	 	journalism
+	
+	n. 新闻业
+
 	4574	 	robot
 	4575	 	flood
 	4576	 	dip
+
+	vt. 浸，蘸
+
 	4577	 	likewise
+
+	adv. 也；同样地
+
 	4578	 	informal
+
+	adj. 非正式的
+
 	4579	 	Persian
+
+	n. 波斯人；波斯语
+
 	4580	 	feather
+
+	n. 羽毛
+
 	4581	 	sphere
+
+	球体
+
 	4583	 	boast
+
+	vt. & vi. 自夸
+	vt. 有(引以为荣的事物)
+
 	4584	 	pat
-	4585	 	perceived
+
+	v n. 轻拍
+	
 	4586	 	sole
+
+	sole proprietorship 独资（经营）
+
 	4587	 	publicity
+
+	n 宣传, 宣扬
+
 	4588	 	major
 	4589	 	unfold
+
+	vt. 打开；呈现
+
 	4590	 	joke
 	4591	 	well-being
+
+	n. 康乐,安康;福利
+
 	4592	 	validity
+
+	n. 有效;效力;合法性
+
 	4593	 	ecosystem
+
+	n. <生>生态系统
+
 	4595	 	partial
+
+	adj. 局部的；不公平的；
+
 	4596	 	collar
+
+	n. 衣领, 领子
+
 	4597	 	weed
+
+	vt. 除草；铲除
+	n. 杂草，野草；
+
 	4598	 	compliance
+
+	n. 服从,听从,顺从
+
 	4599	 	streak
 	
 	-------
 	
 	4600	 	supposedly
+
+	adv. 据认为，据推测；据称
+
 	4601	 	added
+
+	adj. 额外的；更多的
+
 	4602	 	builder
+
+	建筑工人 建筑师
+
 	4603	 	glimpse
+	
+	v n. 一瞥，一看
+
 	4604	 	premise
+
+	n. 前提；
+
 	4605	 	specialty
+
+	n. 专业；专长
+	特制品，特产
+
 	4606	 	deem
+
+	vt. 认为，
+
 	4607	 	artifact
+
+	n. 人工制品;手工艺品;
+
 	4608	 	sneak
+
+	vt. 偷偷地做；偷偷取得
+	N. 鬼鬼祟祟的人；
+
 	4609	 	monkey
 	4610	 	mentor
+
+	n. (无经验之人的)有经验可信赖的顾问
+
 	4611	 	two-thirds
+
+	三分之二
+
 	4612	 	listener
 	4614	 	legally
+
+	adv. 法律上;合法地
+
 	4615	 	sleeve
+	
+	n. 袖子，袖套；
+
 	4616	 	disappointment
+
+	n. 失望, 沮丧
+
 	4617	 	disturb
+
+	vt. 打扰；妨碍；
+
 	4618	 	rib
+
+	n. 肋骨，排骨
+
 	4619	 	excessive
+
+	adj. 过度的，过分的；极度的
+
 	4620	 	high-tech
+
+	n. 高科技
+
 	4621	 	debris
+
+	n. 散落的碎片, 残骸
+
 	4622	 	pile
+
+	n. 堆；
+	v 堆积
+
 	4623	 	rod
+
+	n. 竿, 杆, 棒
+
 	4625	 	liberal
+
+	自由主义的
+
 	4626	 	ash
+
+	n. 灰
+
 	4627	 	socially
+
+	adv. 在社交方面;善于交际地
+
 	4628	 	parish
+
+	n. 教区
+
 	4629	 	slavery
+
+	n. 奴役；奴隶制度；奴隶身份
+
 	4630	 	blank
 	4631	 	commodity
+
+	n. 商品, 货物
+
 	4632	 	cure
+
+	vt. 治愈；治疗；
+
 	4633	 	mineral
+
+	n. 矿物; 矿石; 矿物质
+
 	4634	 	hunger
 	4635	 	dying
 	4636	 	developmental
+
+	dj. 发展的
+
 	4637	 	faster
 	4638	 	spare
+
+	vt. 节省，节约
+
 	4639	 	halfway
-	4640	 	cure
+
+	adj. & adv. 半途(的),中间(的)
+
 	4641	 	equality
+
+	n. 同等, 平等
+
 	4642	 	cemetery
+
+	n. 墓地；公墓
+
 	4643	 	harassment
+
+	n. 骚扰, 扰乱
+
 	4644	 	deliberately
+
+	adv. 慎重地；谨慎地
+	故意地，蓄意地
+
 	4645	 	fame
+
+	n. 名声，名望
+
 	4646	 	regret
+
+	n. 遗憾；抱歉；悲叹
+	vt. 后悔；哀悼；惋惜
+
 	4647	 	striking
+
+	adj. 显著的，突出的
+
 	4648	 	likelihood
+
+	n. 可能, 可能性
+
 	4649	 	carrot
 	4650	 	atop
+
+	prep. 在…的顶上
+	adv. 在顶上
+
 	4651	 	toll
+
+	n. 通行费；
+
 	4652	 	rim
+
+	轮辋；圆圈（轮毂；篮球框等）
+
 	4653	 	embarrassed
 	4654	 	fucking
 	4655	 	cling
+	
+	坚持信仰、意见、习惯
+
 	4656	 	isolated
+
+	adj. 孤立的；分离的；绝缘的；单独的
+
 	4657	 	blink
+
+	闪光；眨眼；
+
 	4659	 	wheelchair
+
+	n. 轮椅
+
 	4660	 	squad
+
+	n. (军队中的)班, 小队
+
 	4661	 	eligible
+
+	adj. 有资格当选的, 有条件被选中的
+	
 	4662	 	processor
+
+	)中央处理器
+
 	4663	 	plunge
+
+	n. 投入；跳进
+
 	4664	 	this
 	4665	 	sponsor
 	4666	 	grin
@@ -13022,6 +13304,7 @@
 	-------
 	
 	6700	 	refine
+	6701	 	bond
 	6702	 	rivalry
 	6703	 	volatile
 	6704	 	sermon
