@@ -3485,10 +3485,6 @@
 	几条狗边叫边向着我们的脚后跟咬来。
 	
 	2620	 	terrorism
-	2621	 	refugee
-	
-	难民
-	
 	2622	 	incorporate
 	
 	将…包括在内；包含；吸收；使并入
@@ -9800,12 +9796,6 @@
 	
 	有毒的；引起中毒的
 	
-	4128	 	alleged
-	
-	verb （未提出证据）断言，指称，声称
-	adj alleged attacker/victim/killer (= that sb says is one)
-	据称的袭击者／受害者／杀人凶手
-	
 	4129	 	jaw
 	4130	 	grief
 	
@@ -9972,10 +9962,6 @@
 	
 	4194	 	cartoon
 	4195	 	besides
-	4197	 	grin
-	
-	露齿而笑；咧着嘴笑；粲然而笑
-	
 	4198	 	symbolic
 	
 	adj 使用象征的；作为象征的；象征性的  symbolic of peace
@@ -11341,50 +11327,166 @@
 
 	n. 投入；跳进
 
-	4664	 	this
 	4665	 	sponsor
+	
+	n 赞助者，赞助商/担保人
+	v 赞助，担保
+	
 	4666	 	grin
-	4667	 	color
+	
+	v 露齿而笑；咧着嘴笑；粲然而笑
+	
 	4668	 	demographic
+	
+	n/adj. 人口统计学的
+	
 	4669	 	rain
 	4670	 	chill
 	4671	 	refuge
+	
+	n 庇护；避难
+	
+	2621	 	refugee
+	
+	难民
+	
 	4672	 	steer
+	
+	v 驾驶（船、汽车等）；掌控方向盘
+	
 	4674	 	rally
 	4675	 	programming
 	4676	 	cheer
 	4677	 	outlet
+	
+	出口；排放管
+	
 	4678	 	intact
+	
+	adj 完好无损；完整
+	
 	4679	 	vendor
+	
+	 小贩；卖主；自动售货机
+	
 	4680	 	thrive
+	
+	兴旺发达；繁荣；蓬勃发展；旺盛；茁壮成长
+	
 	4681	 	peanut
+	
+	花生
+	
 	4682	 	chew
+	
+	咀嚼；嚼碎
+	
 	4683	 	elaborate
+	
+	adj 复杂的；详尽的；精心制作的
+	
 	4685	 	conception
+	
+	n. 思想, 观念, 概念
+	构想, 设想
+	怀孕
+	
 	4686	 	auction
+	
+	拍卖
+	
 	4687	 	steak
+	
+	 牛排
+	
 	4688	 	comply
+	
+	 遵从；服从；顺从
+	
 	4689	 	triumph
+	
+	巨大成功；重大成就；伟大胜利
+	
 	4690	 	shareholder
 	4691	 	comparable
+	
+	adj 类似的；可比较的
+	
 	4692	 	transport
+	
+	 交通运输系统
+	
 	4693	 	conscience
+	
+	良心；良知
+	
 	4694	 	calculation
+	
+	计算
+	
 	4696	 	interval
+	
+	时间上的）间隔，间隙，间歇
+	
 	4697	 	scratch
+	
+	挠，搔（痒处）
+	
 	4698	 	awake
 	4699	 	jurisdiction
+	
+	司法权；审判权；管辖权
+	
 	
 	-------
 	
 	4701	 	feminist
+	
+	女权主义者；女性主义者；女权运动者
+	
 	4702	 	constraint
+	
+	n 限制；限定；约束
+	
+	7885	 	constrain
+	
+	v 强迫；强制；迫使
+	
 	4703	 	emotionally
+	
+	adj  感情的；情感的；情绪的
+	
 	4704	 	expedition
+	
+	n 远征；探险；考察
+	
+	4128	 	alleged
+	
+	verb （未提出证据）断言，指称，声称
+	adj alleged attacker/victim/killer (= that sb says is one)
+	据称的袭击者／受害者／杀人凶手
+	
 	4705	 	allegedly
+	
+	adv ；据说，据称
+	
+	5385	 	allege
+	
+	verb （未提出证据）断言，指称，声称
+	
 	4708	 	similarity
+	
+	相似性；相仿性；类似性
+	
 	4709	 	butt
+	
+	n 屁股
+	v 碰撞
+	
 	4710	 	lid
+	
+	（容器的）盖，盖子
+	
 	4711	 	dumb
 	4712	 	bulk
 	4713	 	sprinkle
@@ -12036,7 +12138,6 @@
 	5382	 	desirable
 	5383	 	slim
 	5384	 	remains
-	5385	 	allege
 	5386	 	grip
 	5387	 	alert
 	5388	 	rear
@@ -14469,7 +14570,6 @@
 	7882	 	endurance
 	7883	 	spicy
 	7884	 	trajectory
-	7885	 	constrain
 	7886	 	ornament
 	7887	 	orderly
 	7888	 	saga
@@ -15718,7 +15818,10 @@
 	9164	 	discredit
 	9166	 	fern
 	9167	 	puzzle
-	9168	 	salute
+	9168	 	salute 
+	
+	v,n 致敬；表示敬意
+	
 	9169	 	pajamas
 	9170	 	long-range
 	9171	 	bun
