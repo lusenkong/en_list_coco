@@ -109,6 +109,10 @@
 	105	 	her
 	106	 	even
 	107	 	back
+	
+	背后
+	支持
+	
 	108	 	any
 	109	 	good
 	110	 	woman
@@ -859,6 +863,9 @@
 	853	 	song
 	854	 	example
 	855	 	democratic
+	
+	美国）民主党的
+	
 	856	 	check
 	857	 	environment
 	858	 	leg
@@ -1673,6 +1680,10 @@
 	1630	 	temperature
 	1631	 	surprise
 	1632	 	poll
+	
+	民意调查
+	选举投票
+	
 	1633	 	proposal
 	1634	 	consequence
 	1635	 	half
@@ -1773,6 +1784,9 @@
 	1720	 	male
 	1721	 	meal
 	1722	 	hearing
+	
+	听证会
+	
 	1723	 	traffic
 	1724	 	muscle
 	1725	 	notion
@@ -2009,7 +2023,7 @@
 	1888	 	nurse
 	1889	 	coverage
 	
-	
+	n 覆盖范围
 	
 	1890	 	opposition
 	1891	 	aside
@@ -13013,6 +13027,10 @@
 	6284	 	Sunni
 	6285	 	glorious
 	6287	 	overturn
+	
+	推翻，撤销（判决，裁决）
+	（物品）翻倒了
+	
 	6288	 	compact
 	6289	 	deprive
 	6290	 	fearful
@@ -15258,6 +15276,9 @@
 	8592	 	jerk
 	8593	 	rap
 	8594	 	prominence
+	
+	n 重要；突出；卓越；出名
+	
 	8595	 	cannon
 	8596	 	narcotic
 	8597	 	multitude
@@ -15658,6 +15679,9 @@
 	
 	9000	 	cliche
 	9001	 	forefront
+	
+	 处于最前列；进入重要地位（或主要地位）
+	
 	9002	 	chuck
 	9003	 	Presbyterian
 	9004	 	rig
@@ -16381,6 +16405,9 @@
 	9727	 	caffeine
 	9728	 	dilute
 	9729	 	televised
+	
+	电视直播
+	
 	9730	 	twig
 	9731	 	throughout
 	9732	 	bulky
