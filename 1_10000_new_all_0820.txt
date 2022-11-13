@@ -12256,12 +12256,28 @@
 	5001	 	beloved
 	5002	 	website
 	5003	 	entertain
+	
+	vt. & vi. 款待, 招待
+	vt. 使欢乐, 使娱乐
+	
 	5005	 	smoking
 	5006	 	bizarre
+	
+	adj  极其怪诞的；异乎寻常的
+	
 	5007	 	overseas
 	5008	 	tribute
+	
+	n 尤指对死者的）致敬，颂词；悼念；致哀；吊唁礼物
+	
 	5009	 	retrieve
+	
+	v 取回；索回
+	
 	5010	 	devise
+	
+	v 发明；设计；想出
+	
 	5011	 	bomber
 	5012	 	campaign
 	5014	 	bargain
