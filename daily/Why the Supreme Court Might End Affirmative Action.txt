@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Why the Supreme Court Might End Affirmative Action
 A blockbuster case about race-conscious admissions programs in higher education could reshape American life.
 Thursday, November 3rd, 2022
@@ -365,4 +366,373 @@ Today’s episode was produced by Stella Tan, Sydney Harper, and Diana Nguyen. I
 
 [THEME MUSIC]
 
+=======
+Why the Supreme Court Might End Affirmative Action
+A blockbuster case about race-conscious admissions programs in higher education could reshape American life.
+Thursday, November 3rd, 2022
+Sabrina Tavernise
+From “The New York Times,” I’m Sabrina Tavernise. And this is “The Daily.” For decades, many universities have used race as a factor when deciding which students to admit. But a landmark case argued this week in front of the Supreme Court may be about to change that. Today, I talked to my colleague Adam Liptak about what may well be the end of affirmative action.
+
+It’s Thursday, November 3.
+
+So Adam, this is another really big term for the Supreme Court. And when I talked to you a few weeks ago, you said that the biggest case of this term was one about affirmative action and that it would be a blockbuster.
+
+Adam Liptak
+Yeah, just as the decision in June overturning the constitutional right to abortion was huge, a case argued on Monday on challenges to race-conscious admissions programs in higher education may well reshape American life.
+
+Sabrina Tavernise
+Adam, give me the basics of the case. What’s it about?
+
+Adam Liptak
+Well, we actually have two cases, one against the University of North Carolina and one against Harvard. But they share basic themes. And they’re both brought by the same plaintiff, which is an organization called Students for Fair Admissions run by a conservative legal activist Edward Bloom, who’s brought a number of race and voting rights cases to the Supreme Court. And he’s had substantial success there.
+
+They both say that affirmative action in higher education, meaning taking account of race for any reason, is unlawful. And in the case of Harvard, there’s a distinctive element. They say that Harvard has discriminated against Asian students, in particular.
+
+Sabrina Tavernise
+OK. So what do we need to know about how the court has ruled on this in the past?
+
+Adam Liptak
+The court’s jurisprudence in this area is based on the Equal Protection Clause of the 14th Amendment. And in many contexts, that clause of the 14th Amendment means that you can’t discriminate based on race, one way or the other, for good purpose or bad, but not in every context. And for more than 40 years, the Supreme Court says there’s an exception for that, for educational diversity, that the interest in having varied student bodies who can learn from each other overcomes the usual legal rule that you can’t draw distinctions based on race.
+
+Sabrina Tavernise
+Hmm.
+
+Adam Liptak
+So that was first established in a 1978 case called Bakke. And then it was officially endorsed by a majority of the court in a 2003 case called Grutter. And in making this exception to the general rule, the court said, you can take account of race, so long as it’s one factor among many in considering the whole student holistic admissions.
+
+It can’t be a quota. It can’t be the only factor. And they said it wasn’t about righting past historical wrongs. But instead, it was about making for a more diverse college campus at which all students of all backgrounds can learn better from each other.
+
+Sabrina Tavernise
+Interesting. So according to that precedent, affirmative action isn’t actually about righting historical wrongs. It’s about life on a college campus, basically this argument that a more mixed student body adds up to a better learning environment.
+
+Adam Liptak
+Yeah. And that’s counterintuitive to a lot of people because holistic admissions are, by design, sort of opaque and gauzy rather than the tougher question of, what does the United States owe to the descendants of people whom it enslaved and brutalized?
+
+Sabrina Tavernise
+OK. So that leads us to oral arguments in what happened at the court this week, Adam.
+
+John Roberts
+We will hear argument first this morning in case 21707, Students for Fair Admissions versus the University of North Carolina. Mr. Strawbridge?
+
+Patrick Strawbridge
+Mr. Chief Justice, and may it please the court.
+
+Adam Liptak
+Well it starts with a lawyer for students for Fair Admissions, Patrick Strawbridge, standing up and making the basic case.
+
+Patrick Strawbridge
+Racial classifications are wrong. That principle was enshrined in our law at great cost following the Civil War. The court has broadly enforced the Constitution’s prohibition on the use of racial classifications.
+
+Sabrina Tavernise
+So, Adam, what exactly is Strawbridge saying here?
+
+Adam Liptak
+I really think he’s making two points. One, he’s making his fundamental argument that the 14th Amendment’s Equal Protection Clause forbids racial classifications for any reason.
+
+Patrick Strawbridge
+Grutter is grievously wrong. His view that the educational benefits of diversity justify racial classifications contradicts the 14th Amendment’s guarantee of equal treatment. It relied upon stereotypical assumptions that race is necessarily a proxy for one’s viewpoint.
+
+Adam Liptak
+The second and more subtle point he’s making is that the rationale of the court has developed about educational diversity has embedded in it, he says, a stereotype, that people have given backgrounds are likely to hold given viewpoints.
+
+Patrick Strawbridge
+The assumption that race necessarily informs something about anyone’s qualifications is antithetical to this court’s precedents and to our Constitution.
+
+Adam Liptak
+So for those two reasons, he thinks Grutter should be overruled.
+
+Sabrina Tavernise
+And Adam, how are the justices responding to this argument Strawbridge is making?
+
+Adam Liptak
+They divide along predictable lines. And the three liberals put up a spirited defense of the importance of educational diversity and of being realistic about the role race plays in American society.
+
+Sonia Sotomayer
+I want to break down what you’re talking about.
+
+Sometimes race does correlate to some experiences and not others.
+
+Adam Liptak
+Justice Sotomayor, for instance, takes issue with Strawbridge’s statement that race doesn’t tell us anything about viewpoint. And she said race often does correlate to some experiences.
+
+Sonia Sotomayer
+If you’re Black, you’re more likely to be in an under-resourced school. You’re more likely to be taught by teachers who are not as qualified as others. You’re more likely to be viewed as having less academic potential.
+
+Sabrina Tavernise
+So she’s saying basically race is important context. Like, it can correlate to a bunch of really important pieces of information about a person that shows you the full picture.
+
+Adam Liptak
+That’s what she’s saying. And Justice Sotomayor has proudly said that she is a product of affirmative action, that her test scores were not comparable to those of white students when she got into Princeton and then Yale Law School. But she excelled at those institutions. She said she came in through a side door. And in this argument, she plainly wanted to keep that side door open.
+
+Sabrina Tavernise
+Interesting. And what do other liberal justices argue, Adam?
+
+Ketanji Brown Jackson
+How are they taking into account race independent of the rest of the information in the holistic review process?
+
+Adam Liptak
+Justice Ketanji Brown Jackson, the newest member of the court and the only Black woman on the court, said, “we’re talking about holistic review here.”
+
+Ketanji Brown Jackson
+You keep saying we object to the use of race standing alone. But as I read the record and understand their process, it’s never standing alone, that it’s in the context of all of the other factors.
+
+Adam Liptak
+We’re talking about race as one factor among many.
+
+Ketanji Brown Jackson
+— 40 factors about all sorts of things that the admissions office is looking at. And you haven’t demonstrated or shown one situation in which all they look at is race and take from that stereotypes and other things.
+
+Adam Liptak
+So looking, she says, and the full person and all kinds of character.
+
+Sabrina Tavernise
+And what was the response to this?
+
+Adam Liptak
+Well, the lawyer says that race is not like any other factor in admissions.
+
+Patrick Strawbridge
+But our point is that all of those other characteristics are not barred by the Constitution. And the use of race as a classification is barred by the Constitution.
+
+Ketanji Brown Jackson
+But it has to —
+
+Adam Liptak
+That the Constitution forbids the consideration of race. And while you can have a holistic admissions process that takes account of where someone is from or whether they’re good at playing a musical instrument, whether they’re a fine athlete, the Constitution, he says, forbids using race as even a factor in the admissions process.
+
+Elena Kagan
+Right. Well, that gets us back to this question of what universities can do.
+
+Adam Liptak
+Then Justice Elena Kagan brings it around and makes what is probably the most fundamental and practical point.
+
+Elena Kagan
+I guess what I’m saying is your brief — and this is very explicit in your brief — is it just doesn’t matter if our institutions look like America. And I guess what I’m asking you is, doesn’t it? I mean, doesn’t it? These are the —
+
+Adam Liptak
+That without race-conscious admissions, the numbers of Black and Hispanic students, in particular, would drop significantly. And that would have a real impact on society.
+
+Elena Kagan
+Universities are the pipeline to that leadership. Now, if universities are not racially diverse — and your rule suggests that it doesn’t matter. Well, then all of those institutions are not going to be racially diverse either.
+
+Adam Liptak
+And that unless we have broad representation of all kinds of groups, we’re going to be missing people in the pipelines to leadership in society, whether that’s the military or business or law.
+
+Elena Kagan
+And I thought that part of what it meant to be an American and to believe in American pluralism is that actually our institutions are reflective of who we are as a people in all our variety.
+
+Adam Liptak
+And if you restrict the kinds of people who have access to that, it diminishes the nation, she says. And Kagan is basically asking, doesn’t it matter whether our institutions are diverse?
+
+Sabrina Tavernise
+Right. Kagan’s saying without race-conscious admissions, are schools and therefore are broader institutions are going to be less diverse. And the number of minority students will drop. Isn’t that important?
+
+Adam Liptak
+Yeah, the term diversity came up more than 200 times over five hours of arguments. And remember, the liberals have to argue on those grounds because of the precedents in this area. But they’re also saying, America’s diverse. It’s essential to who we are. And our higher educational institutions should reflect that. But the court’s conservatives take a completely different view about whether diversity is an adequate justification for race-conscious admissions programs. And their questions, as the day went on, came after diversity very hard.
+
+Sabrina Tavernise
+We’ll be right back.
+
+So Adam, you were just telling me that the conservative justices were really focused on this idea of diversity and questioning it. How did you see that play out in the arguments?
+
+Adam Liptak
+Well, it happened almost as soon as the lawyer for the University of North Carolina, Ryan Park, made the standard pitch for diversity.
+
+Ryan Park
+Diversity is our nation’s greatest source of strength. We live in a large and sometimes unwieldy democracy. And for that democracy to flourish, people of all different backgrounds and perspectives have to learn to live together and unite in common purpose.
+
+Adam Liptak
+And he’s barely done sketching out that account of diversity —
+
+Ryan Park
+welcome the court’s questions.
+
+Clarence Thomas
+Mr. Park, I’ve heard the word diversity quite a few times. And I don’t have a clue what it means.
+
+Adam Liptak
+— when Justice Clarence Thomas, who is quite hostile to affirmative action, asks what does diversity mean? I don’t have a clue what it means, he says.
+
+Clarence Thomas
+It seems to mean, everything for everyone.
+
+Adam Liptak
+And Thomas points out to Harvard’s lawyer that Harvard may be racially diverse. But —
+
+Clarence Thomas
+They argue that you’re over 80 percent wealthy students, that that’s not diverse and that 30 percent or so of a class is made up of ALDC students.
+
+Adam Liptak
+A majority of its students are quite wealthy, and significant numbers are what are called ALDC students, which is an of athletes, legacies, meaning children of alumni, and people on special lists. So Thomas is wondering, is this university actually diverse across all dimensions, or is it unduly focused on race?
+
+Brett Kavanaugh
+You’re seeking educational diversity. But my understanding, correct me if I’m wrong, is that you don’t ask about religion.
+
+Adam Liptak
+Then Justice Kavanaugh asked whether the university cares about religious diversity.
+
+Brett Kavanaugh
+And why the disparate treatment of religion and race, when evangelical Christians, Catholics, Muslims add to the educational diversity?
+
+Adam Liptak
+And the lawyer for Harvard says, yes, it does. And that many religions are represented.
+
+Brett Kavanaugh
+How can it track it, if it doesn’t ask?
+
+Ryan Park
+Oh, how can it track it? OK. Harvard is not tracking it in the admissions process, other than —
+
+Adam Liptak
+But he also said that unlike race, where students are asked to disclose racial categories, the university doesn’t ask about religion.
+
+Sabrina Tavernise
+So the conservatives are really putting their finger on the weak point here, right? This whole idea of diversity, of course, is the legal standard. But it’s murky, it sounds. Like, what counts as diversity? Why not religion? Why not class? And how come those categories are treated differently from race?
+
+Adam Liptak
+Right. And Justice Samuel Alito, sort of echoing Justice Thomas who doesn’t know what diversity means, Justice Alito says he doesn’t know what under-represented minority means.
+
+Samuel Alito
+When can a student honestly claim to fall within one of these groups?
+
+Adam Liptak
+And he uses kind of a thought experiment.
+
+Samuel Alito
+So let’s say the student has one grandparent who falls within that class. Can the student claim to be a member of an underrepresented minority?
+
+Ryan Park
+Yes, we rely on self reporting. And we don’t give —
+
+Samuel Alito
+One great grandparent?
+
+Ryan Park
+If that person believes that that is the accurate expression of their identity, I don’t think there would be any —
+
+Samuel Alito
+One great-great grandparent?
+
+Ryan Park
+I think —
+
+Samuel Alito
+You’re going to make me continue to go on?
+
+Ryan Park
+Right. Right.
+
+Adam Liptak
+Well, what if one grandparent, what if one great grandparent was a member of a racial minority, would the university give students credit for that in terms of a plus factor for racial diversity? And the answer essentially was that students are allowed to self report and to identify as they wish.
+
+Sabrina Tavernise
+Interesting. So bottom line for the conservatives, even within the category of race itself, it’s hard to define. It’s hard to measure. It’s mushy, this diversity thing.
+
+Adam Liptak
+Right.
+
+Samuel Alito
+Suppose you assembled a student body in which the various racial groups coincide almost exactly to the percentage of those racial groups in the general population. Would you say, OK, now we’ve done it. We’ve achieved diversity?
+
+Ryan Park
+No, your honor. And I don’t think —
+
+Adam Liptak
+And several justices then start to bring up the point that if you can’t define and quantify and measure diversity, how do you know if you’ve ever really achieved it? How do you know when you’re done?
+
+Amy Coney Barrett
+I mean, Grutter also says, “all governmental use of race must have a logical end point, reasonable durational limits, sunset provisions in race-conscious admissions policies.” And I —
+
+Sabrina Tavernise
+The Grutter decision in 2003 set a kind of end point. Justice Sandra Day O’Connor, writing for the majority, said, it’s 25 years after Bakke in 1978. We’re now in 2003. We expect that in another 25 years, we’ll no longer need to take account of race in university and college admissions, that this is a necessary evil to take account of race. And it’s something that we expect society will be done with.
+
+Amy Coney Barrett
+Grutter doesn’t say this is great. We embrace this. Grutter says, this is dangerous, and it has to have an end point.
+
+Sabrina Tavernise
+So it sounds like in 2003, when O’Connor wrote that majority opinion, she built in this assumption that it wouldn’t be forever, that race wouldn’t always be an element of this holistic consideration.
+
+Adam Liptak
+Right. She had a hopeful attitude about the progress of society, that over time, things would take care of themselves. And the aftershocks of historical wrongs would dissipate, that the day will come when society is equal enough that you wouldn’t need to take account of race in order to achieve diverse student bodies.
+
+Sabrina Tavernise
+Hmm.
+
+Adam Liptak
+We don’t seem to be there yet as an empirical matter. But the conservatives were definitely thinking, what is the end point? How do we get ourselves out of this stuff? And might we not, in fact, want to shut down this kind of racial preference now?
+
+Sabrina Tavernise
+And Adam, what did the university’s lawyers say in response to the conservatives making this argument?
+
+Adam Liptak
+They kind of struggled.
+
+Amy Coney Barrett
+— those efforts, but when is the end point?
+
+Ryan Park
+I meant to respond to Justice Alito, meaning that we do not need to reach that point for us to feel that we have met our diversity goals. I mean —
+
+Adam Liptak
+They wanted to indicate that they’re making progress. But at the same time, both because diversity is very hard to measure and because it’s hard to know when you’ve gotten there, they were not willing to embrace any particular end point.
+
+Sabrina Tavernise
+So it sounds like conservatives were all pretty unified in this whole idea of race-conscious admissions, as they’re arguing, was legally built on sand.
+
+Adam Liptak
+Yes, right.
+
+John Roberts
+Thank you to all counsel in both cases. Cases submitted.
+
+Sabrina Tavernise
+So Adam, where does all of this leave us? What did the oral arguments at the end of the day tell us about what the ruling might be?
+
+Adam Liptak
+So my distinct impression was that the court’s conservative majority was prepared to do away with race-conscious admissions programs, at least where they take account of race directly. So the universities are likely to lose. And one question will be what tools they will be left with to achieve racial diversity if the court says they can’t take account of race directly.
+
+Will they still be allowed to take account of race indirectly through proxies, like looking at socioeconomic diversity, by outreach, by allowing essays in which students discuss overcoming racial discrimination, by top-10 programs that focus on students who graduate at the top of their high schools. So admissions officers may still have some tools left to try to make their campuses look like the communities they serve. But affirmative action, in its current form, is likely to be struck down.
+
+Sabrina Tavernise
+Which is a huge societal change, right?
+
+Adam Liptak
+Yeah. And it goes far beyond the college campus, not that that’s a small thing. But the legal logic of a decision doing away with affirmative action in higher education could easily have an impact in other parts of society, in employment, in the military, and other areas.
+
+Sabrina Tavernise
+Adam, it strikes me that this whole idea of affirmative action, for a time, was supposed to make access to education more fair, right? That was the purpose. And now it seems like the Supreme Court may decide that affirmative action actually does the opposite, makes access to education less fair. I’m wondering how you think about that?
+
+Adam Liptak
+Well, it comes back to how you interpret the Equal Protection Clause in the 14th Amendment.
+
+The 14th Amendment was adopted in a historical context. It was adopted in response and in the wake of the Civil War.
+
+And its larger purpose was to bring into the American mainstream formerly enslaved people who had suffered terrible mistreatment by the nation. And so you can think of the 14th Amendment as requiring colorblindness and not taking race into consideration at all. Or you can think about it as being sensitive to contemporary reality and historical practices.
+
+So it’s a face off between two understandings of equal protection. And the Supreme Court is about to pick sides. And from the questioning at the arguments on Monday, it seems clear which side the court’s conservative majority’s going to pick.
+
+Sabrina Tavernise
+Adam, thank you.
+
+Adam Liptak
+Thank you, Sabrina.
+
+Sabrina Tavernise
+We’ll be right back.
+
+Here’s what else you should know today. The Federal Reserve raised interest rates by 3/4 of a point on Wednesday, in a continuing effort to rein in rapid inflation. It has been the federal government’s fastest campaign to cool the economy since the 1980s. And in a potential signal that the Fed would eventually ease up, its policy makers hinted on Wednesday that they might slow rate increases soon. And —
+
+Archived Recording
+It’s the sentence of the court as follows, count one of the indictment, the murder in the first degree of Luke Hoyer, the court imposes a sentence of life in prison without the possibility of parole.
+
+Sabrina Tavernise
+— Parkland school shooter Nikolas Cruz formally received a sentence of life without parole, at the end of a long trial in which families of his 17 slain victims testified against him. In mid-October, a jury voted 9 to 3 to sentence him to death. But the law in Florida, where he was tried, requires unanimity for that sentence to be imposed.
+
+Finally, the Ethiopian government and forces in the northern Tigray region signed an agreement to stop the fighting in a brutal civil war that has left hundreds of thousands dead and more than 2 million people displaced. The war began on November 3, 2020, when Prime Minister Abiy Achmad announced what he called a, quote, “law and order operation” against Tigrayan political leaders who had defied his authority.
+
+Today’s episode was produced by Stella Tan, Sydney Harper, and Diana Nguyen. It was edited by John Ketchum and Michael Benoist, contains original music by Chelsea Daniel and Dan Powell, and was engineered by Chris Wood. Our theme music is by Jim Brunberg and Ben Landsverk of Wonderly.
+
+[THEME MUSIC]
+
+>>>>>>> e6e2c470644b38bfd7d6b2a889895570cd9703c5
 That’s it for “The Daily.” I’m Sabrina Tavernise. See you tomorrow.
