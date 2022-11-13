@@ -870,7 +870,6 @@
 	857	 	environment
 	858	 	leg
 	859	 	dark
-	860	 	public
 	861	 	various
 	862	 	rather
 	863	 	laugh
@@ -12037,85 +12036,219 @@
 	v  具体说明；明确规定；详述；详列
 	
 	4911	 	contributor
+	
+	n n. 捐款人;捐助人
+	
 	4913	 	crowd
+	
+	人群；观众
+	
 	4914	 	articulate
+	
+	v 明确表达；清楚说明
+	adj 善于表达的
+	
 	4915	 	importantly
 	4916	 	transit
 	4917	 	dense
+	
+	adj 密集的；稠密的
+	
 	4918	 	seminar
+	
+	（大学教师带领学生作专题讨论的）研讨课
+	
 	4920	 	sunny
 	4922	 	swell
+	
+	v 膨胀；肿胀
+	
 	4923	 	accusation
+	
+	n 控告；起诉；告发；谴责
+	
 	4924	 	soften
+	
+	v （使）变软，软化
+	
 	4925	 	photograph
 	4926	 	straighten
+	
+	v 使）变直，变正
+	
 	4927	 	terribly
+	
+	adv very 非常；很
+	
 	4928	 	cue
-	4929	 	sudden
+	
+	n 暗示；提示；信号
+	n （台球等的）球杆，弹子棒
+	
 	4930	 	bride
+	
+	新娘；即将（或刚刚）结婚的女子
+	
 	4931	 	biography
+	
+	n 传记；传记作品
+	
 	4932	 	hazard
+	
+	n 危险；危害
+	v 试着提出；大胆猜测
+	
 	4933	 	compelling
+	
+	adj 引人入胜的；扣人心弦的
+	
 	4934	 	seldom
+	
+	adv not often 不常；很少；难得
+	
 	4935	 	tile
+	
+	n. 瓷砖，瓦片
+	vt. 铺以瓦；铺以瓷砖
+	
 	4937	 	honestly
 	4938	 	troubled
 	4939	 	bow
+	
+	 鞠躬；点头
+	
 	4940	 	twentieth
 	4941	 	balanced
 	4942	 	foreigner
 	4943	 	launch
 	4944	 	convenience
 	4946	 	weave
+	
+	v （用手或机器）编，织
+	
 	4947	 	timber
+	
+	n （用于建筑或制作物品的）树木，林木；用材林
+	
 	4948	 	till
 	4949	 	accurately
 	4950	 	plea
+	
+	n 请求；恳求
+	
 	4951	 	bulb
+	
+	n 电灯泡
+	
 	4952	 	copy
 	4953	 	flying
 	4954	 	sustainable
+	
+	adj （对自然资源和能源的利用）不破坏生态平衡的，合理利用的
+	adj 可持续的
+	sustainable economic growth
+	经济的可持续增长
+	
 	4955	 	devil
 	4956	 	bolt
+	
+	n （门窗的）闩，插销
+	v  跑开；（尤指）逃跑
+	
 	4957	 	cargo
+	
+	（船或飞机装载的）货物
+	
 	4958	 	spine
+	
+	脊柱；脊椎
+	
 	4959	 	seller
 	4960	 	skilled
 	4961	 	managing
-	4962	 	public
 	4963	 	marine
+	
+	adj. 海的，海产的，海生的
+	（尤指美国或英国皇家）海军陆战队士兵
+	
 	4964	 	dock
+	
+	船坞；船埠；码头
+	
 	4966	 	fog
 	4968	 	boring
 	4969	 	sometime
 	4970	 	summary
 	4971	 	missionary
+	
+	n 传教士
+	
 	4972	 	epidemic
+	
+	n 流行病
+	（坏事迅速的）泛滥，蔓延
+	
 	4973	 	fatal
 	4974	 	trim
+	
+	v 修剪；修整
+	
 	4975	 	warehouse
+	
+	仓库；货栈；货仓
+	
 	4976	 	accelerate
 	4977	 	butterfly
 	4978	 	bronze
+	
+	n 青铜
+	adj 深红棕色的；青铜色的
+	
 	4979	 	drown
+	
+	v （使）淹死，溺死
+	
 	4980	 	inherent
+	
+	adj 固有的；内在的
+	
 	4982	 	nationwide
+	
+	全国性的；遍及全国的；全国范围的
+	
 	4983	 	spit
-	4984	 	harvest
 	4985	 	kneel
 	4986	 	vacuum
+	
+	真空
+	
 	4987	 	selected
 	4988	 	dictate
+	
+	v 口述
+	
 	4989	 	stereotype
+	
+	模式化观念（或形象）；老一套；刻板印象
+	
 	4990	 	sensor
 	4991	 	laundry
+	
+	n. 洗衣店，洗衣房
+	
 	4992	 	manual
+	
+	adj  用手的；手工的；体力的
+	n  使用手册；说明书；指南
+	
 	4993	 	pistol
 	4994	 	naval
+	
+	adj 海军的
+	
 	4996	 	kid
 	4997	 	middle-class
 	4998	 	apology
-	4999	 	till
 	
 	-------
 	
