@@ -1169,7 +1169,6 @@
 	1163	 	nine
 	1164	 	therefore
 	1166	 	announce
-	1167	 	conversation
 	1168	 	examine
 	1169	 	touch
 	1170	 	please
@@ -4489,7 +4488,6 @@
 	2914	 	imagination
 	2915	 	target
 	2916	 	mask
-	2917	 	convert
 	2918	 	comprehensive
 	
 	全部的；所有的；（几乎）无所不包的；详尽的
@@ -10146,7 +10144,6 @@
 
 	n. 抽屉
 	
-	4251	 	regard
 	4252	 	sheep
 	4253	 	discourage
 	4254	 	coordinator
@@ -10546,6 +10543,7 @@
 	4402	 	liquid
 	
 	液体
+	金融流动性
 	
 	4403	 	icon
 	4404	 	elephant
@@ -11074,10 +11072,6 @@
 	4584	 	pat
 
 	v n. 轻拍
-	
-	4586	 	sole
-
-	sole proprietorship 独资（经营）
 
 	4587	 	publicity
 
@@ -11502,183 +11496,507 @@
 	（容器的）盖，盖子
 	
 	4711	 	dumb
+	
+	adj 哑的；不能说话的 / 愚蠢的
+	
 	4712	 	bulk
+	
+	主体；大部分
+	The bulk of the population lives in cities.
+	大多数人口居住在城市里。
+	
+	a bulk order 
+	一份大额订单
+	
+	巨大的体重（或重量、形状、身体等）
+	
 	4713	 	sprinkle
+	
+	v 撒；洒；把…撒（或洒）在…上
+	
 	4714	 	mortality
+	
+	1 死亡数量；死亡率
+	2 生命的有限
+	
 	4715	 	philosophical
+	
+	哲学的
+	
+	2917	 	convert
+	
+	v 转变；转换；转化
+	
 	4716	 	conversion
+	
+	n 转变；转换；转化
+	
+	1167	 	conversation
+	
+	谈话
+	
 	4717	 	patron
+	
+	（艺术家、作家的）赞助人，资助者
+	老主顾，常客
+	
 	4718	 	municipal
+	
+	adj 市政的；地方政府的
+	
+	8863	 	municipality
+	
+	 自治市；（市下的）自治区；市（或区）政当局
+	
 	4719	 	any
 	4720	 	liver
 	4721	 	harmony
+	
+	n 融洽；和睦
+	
+	4586	 	sole
+
+	adj sole proprietorship 独资（经营）
+	
 	4722	 	solely
+	
+	adv  仅；只；唯；单独地
+	
 	4723	 	tolerance
+	
+	忍受；容忍；宽容；宽恕
+	
 	4725	 	goat
+	
+	1 山羊
+	2 老色鬼；色狼；好色之徒
+	
 	4726	 	arm
 	4727	 	blessing
 	4728	 	banana
 	4729	 	running
 	4730	 	palace
 	4731	 	formerly
+	
+	adv 以前；从前
+	
 	4732	 	peasant
+	
+	农民，小农，佃农
+	
 	4733	 	neat
 	4734	 	grandparent
 	4735	 	lawmaker
+	
+	立法者
+	
 	4736	 	supermarket
 	4737	 	cruise
 	4738	 	mobile
+	
+	adj 非固定的；可移动的
+	n 手机
+	
 	4740	 	part
 	4741	 	calendar
 	4742	 	widow
+	
+	寡妇；遗孀
+	
 	4743	 	deposit
 	4744	 	beard
 	4745	 	brake
+	
+	刹车；制动器；车闸
+	
 	4746	 	downtown
 	4747	 	screening
+	
+	（电影的）放映；（电视节目的）播放
+	
+	筛查
+	breast cancer screening
+	乳腺癌筛查
+	
 	4748	 	impulse
 	4749	 	forbid
 	4750	 	fur
 	4751	 	brutal
 	4752	 	predator
+	
+	捕食者；捕食性动物
+	
 	4753	 	poke
+	
+	v （用手指或其他东西）捅，戳，杵
+	
 	4754	 	opt
+	
+	v 选择；挑选
+	
 	4755	 	voluntary
-	4756	 	trouble
 	4757	 	valid
+	
+	（法律上）有效的；（正式）认可的
+	
 	4758	 	forum
+	
+	 公共讨论场所；论坛；讨论会
+	
 	4759	 	dancing
 	4760	 	happily
 	4761	 	soar
+	
+	急升；猛增
+	
 	4762	 	removal
 	4763	 	autonomy
+	
+	n 自治；自治权
+	
 	4764	 	enact
 	
 	vt. 制定(法律)；通过(法案)
 	
 	4765	 	round
+	
+	圆形的；环形的；球形的
+	
 	4766	 	thread
+	
+	（棉、毛、丝等的）线
+	线索；脉络；思路；贯穿的主线
+	
 	4768	 	landmark
+	
+	陆标，地标（有助于识别所处地点的大建筑物等）
+	（标志重要阶段的）里程碑
+	
 	4769	 	unhappy
 	4770	 	offender
+	
+	 犯罪者；违法者；罪犯
+	
 	4771	 	coming
+	
+	adj （新事物的）到来，来临
+	
 	4772	 	privately
 	4773	 	fraction
+	
+	1 小部分；少量；一点儿
+	2 分数；小数
+	
 	4775	 	tourism
+	
+	旅游业；观光业
+	
 	4776	 	threshold
+	
+	门槛；门口
+	
 	4777	 	calm
 	4778	 	routinely
 	4779	 	suite
+	
+	（尤指旅馆的）一套房间，套房
+	
 	4780	 	remark
 	4782	 	straw
+	
+	收割后干燥的）禾秆，麦秆，稻草
+	吸管
+	
 	4784	 	apart
+	
+	（指空间或时间）相隔，相距
+	不在一起；分离；分开
+	
 	4785	 	exhaust
+	
+	n （车辆、发动机或机器排出的）废气/排气管
+	v 使筋疲力尽；使疲惫不堪
+	
 	4786	 	globe
+	
+	地球仪
+	
 	4787	 	fragile
+	
+	adj 易碎的；易损的
+	
+	4799	 	fragment
+	
+	n 碎片
+	
 	4788	 	objection
+	
+	n 反对的理由；反对；异议
+	
 	4789	 	chemistry
 	4790	 	old-fashioned
+	
+	adj 陈旧的；过时的；不时髦的
+	
 	4791	 	crowded
 	4792	 	circle
 	4793	 	blast
+	
+	n  爆炸；（爆炸引起的）气浪，冲击波
+	
 	4794	 	prevail
+	
+	 普遍存在；盛行；流行
+	
 	4795	 	overnight
 	4796	 	denial
+	
+	n 否认；否定
+	
 	4797	 	rental
+	
+	n 租金
+	
 	4798	 	fantastic
-	4799	 	fragment
+	
 	
 	-------
 	
 	4800	 	level
 	4801	 	screw
+	
+	N  螺丝钉；螺丝
+	V 旋紧；拧紧
+	
 	4802	 	warmth
+	
+	温暖；暖和
+	
 	4803	 	undergraduate
-	4804	 	liquid
+	
+	本科生(未毕业)
+	
 	4805	 	headache
 	4806	 	policeman
-	4807	 	yield
-	4809	 	battle
 	4810	 	suitable
-	4811	 	mention
 	4812	 	graduation
 	4813	 	drill
+	
+	钻；钻头；钻床；钻机
+	
 	4814	 	cruel
+	
+	adj 残酷的；冷酷的；残忍的；残暴的
+	
 	4815	 	mansion
-	4816	 	regard
+	
+	公馆；宅第
+	
 	4817	 	grape
+	
+	葡萄
+	
 	4818	 	authorize
+	
+	v 批准；授权
+	
 	4819	 	cottage
+	
+	 小屋；（尤指）村舍，小别墅
+	
 	4820	 	driveway
+	
+	n. 车道
+	
 	4821	 	charm
 	4822	 	sexuality
 	4823	 	loyal
 	4824	 	clay
+	
+	黏土；陶土
+	
 	4825	 	pound
+	
+	英镑（英国货币单位，等于 100 便士）
+	磅（重量单位，合 0.454 千克）
+	
 	4826	 	balloon
+	
+	n 气球
+	v（突然）膨胀，涨大
+	
 	4828	 	ego
+	
+	自我价值感
+	
 	4829	 	fare
+	
+	 车费；船费；飞机票价
+	
 	4830	 	homework
 	4831	 	disc
+	
+	（计算机）光碟，光盘
+	
 	4832	 	sofa
 	4833	 	guarantee
+	
+	保证；担保
+	
 	4834	 	availability
 	4835	 	radar
+	
+	雷达
+	
 	4836	 	frown
+	
+	皱眉；蹙额
+	
 	4837	 	regain
+	
+	 重新获得，恢复（能力或品质等）
+	
 	4838	 	leave
 	4839	 	permit
 	4840	 	sweater
 	4841	 	rehabilitation
+	
+	使（重病患者）康复；使（长期服刑者）恢复正常生活
+	恢复…的名誉；给…平反昭雪
+	
 	4842	 	rubber
+	
+	橡胶
+	橡皮；黑板擦
+	
 	4843	 	retreat
+	
+	 退却；撤退
+	
 	4844	 	molecule
+	
+	n. 分子（化学）
+	
 	4845	 	freely
 	4847	 	steadily
 	4848	 	veteran
+	
+	退伍军人；老兵；老战士；老水兵
+	
 	4850	 	ha
 	4851	 	youngster
 	4852	 	broadcast
+	
+	播送（电视或无线电节目）；广播
+	
 	4853	 	premium
+	
+	保险费、额外费用；附加费
+	
 	4854	 	accountability
+	
+	对自己的决定、行为）负有责任，有说明义务
+	
 	4855	 	overwhelm
+	
+	v （感情或感觉）充溢，难以承受
+	v 压倒；击败；征服
+	
 	4856	 	one-third
 	4857	 	contemplate
+	
+	v  考虑；思量；思忖
+	
 	4858	 	update
 	4859	 	spark
+	
+	火花；火星
+	
 	4860	 	ironically
+	
+	adj 反语的；讽刺的
+	
 	4861	 	fatigue
-	4862	 	beyond
+	
+	 极度疲劳；极度劳累
+	
 	4863	 	speculate
+	
+	v 推测；猜测；推断
+	
 	4864	 	marker
-	4865	 	low
 	4866	 	preach
+	
+	v 宣传，宣扬，宣讲（教义、生活方式、体制等）
+	
 	4867	 	bucket
+	
+	（有提梁的）桶
+	
 	4868	 	bomb
 	4869	 	blond
 	4871	 	provoke
+	
+	v 激起；引起；引发
+	
 	4872	 	marble
+	
+	n 大理石
+	
 	4874	 	twist
+	
+	使弯曲，使扭曲（成一定形状）
+	
 	4875	 	defender
 	4876	 	fish
 	4877	 	explicit
+	
+	adj 清楚明白的；易于理解的
+	
 	4878	 	transport
 	4879	 	disturbing
+	
+	adj 引起烦恼的；令人不安的；引起恐慌的
+	
 	4880	 	surveillance
+	
+	n （对犯罪嫌疑人或可能发生犯罪的地方的）监视
+	
 	4881	 	magnetic
 	4882	 	technician
 	4883	 	mutter
+	
+	v 嘀咕；嘟囔,（私下）抱怨，发牢骚
+	
 	4884	 	devastating
+	
+	adj 破坏性极大的；毁灭性的
+	
 	4886	 	arrow
 	4887	 	trauma
+	
+	n 精神创伤
+	
 	4888	 	neighboring
 	4889	 	soak
+	
+	v 浸泡；浸湿；浸透；湿透
+	
 	4890	 	ribbon
+	
+	（用于捆绑或装饰的）带子；丝带
+	
 	4891	 	meantime
 	4892	 	transmit
 	4893	 	screen
 	4894	 	harvest
+	
+	n 收获季节；收割；收获
+	
 	4895	 	consecutive
+	
+	adj 连续不断的
+	
 	4896	 	republican
 	4898	 	worldwide
 	4899	 	within
@@ -11687,11 +12005,32 @@
 	
 	4900	 	spy
 	4901	 	slot
+	
+	n （投放或插入东西的）窄缝，扁口
+	v  投放；插入；（被）塞进；（被）装入
+	
 	4902	 	riot
+	
+	n 暴乱；骚乱
+	
 	4903	 	nutrient
+	
+	n 营养素；营养物
+	
 	4904	 	citizenship
+	
+	n 公民身份；公民资格
+	
 	4906	 	sovereignty
+	
+	主权；最高统治权；最高权威
+	The country claimed sovereignty over the island.
+	那个国家声称对该岛拥有主权
+	
 	4907	 	ridge
+	
+	山脊；山脉
+	
 	4908	 	brave
 	4910	 	specify
 	4911	 	contributor
@@ -12110,7 +12449,6 @@
 	5335	 	halt
 	5336	 	persistent
 	5338	 	humanitarian
-	5339	 	update
 	5340	 	exile
 	5341	 	roar
 	5342	 	torture
@@ -12598,7 +12936,6 @@
 	5845	 	impairment
 	5846	 	Latino
 	5847	 	deed
-	5848	 	cruise
 	5849	 	culturally
 	5850	 	sigh
 	5851	 	film
@@ -13950,7 +14287,6 @@
 	7245	 	abusive
 	7246	 	airborne
 	7247	 	sneakers
-	7248	 	screw
 	7249	 	someplace
 	7250	 	harass
 
@@ -15387,7 +15723,6 @@
 	8702	 	bargain
 	8703	 	dissatisfaction
 	8704	 	charismatic
-	8705	 	thread
 	8706	 	damaged
 	8707	 	entertainer
 	8708	 	refrigerate
@@ -15542,7 +15877,6 @@
 	8860	 	emanate
 	8861	 	stalk
 	8862	 	farmland
-	8863	 	municipality
 	8864	 	boredom
 	8865	 	unrealistic
 	8866	 	Latin
@@ -16125,7 +16459,6 @@
 	9444	 	bedtime
 	9445	 	evidence
 	9446	 	unreasonable
-	9447	 	sole
 	9449	 	reprint
 	9450	 	rename
 	9451	 	hunch
@@ -16555,7 +16888,6 @@
 	9881	 	cyclist
 	9882	 	oppressive
 	9883	 	thermometer
-	9884	 	convert
 	9885	 	savvy
 	9886	 	arousal
 	9887	 	finite
