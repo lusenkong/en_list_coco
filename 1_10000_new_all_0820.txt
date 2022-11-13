@@ -12033,6 +12033,9 @@
 	
 	4908	 	brave
 	4910	 	specify
+	
+	v  具体说明；明确规定；详述；详列
+	
 	4911	 	contributor
 	4913	 	crowd
 	4914	 	articulate
