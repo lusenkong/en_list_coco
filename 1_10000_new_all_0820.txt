@@ -588,7 +588,6 @@
 	578	 	north
 	579	 	love
 	580	 	personal
-	581	 	open
 	582	 	support
 	583	 	simply
 	584	 	third
@@ -1211,7 +1210,6 @@
 	1208	 	sorry
 	1209	 	crisis
 	1210	 	complete
-	1211	 	fan
 	1212	 	stick
 	1213	 	define
 	1214	 	easily
@@ -11948,6 +11946,10 @@
 	
 	adj 清楚明白的；易于理解的
 	
+	5284	 	explicitly
+	
+	adv 
+	
 	4878	 	transport
 	4879	 	disturbing
 	
@@ -12651,6 +12653,7 @@
 	5139	 	tilt
 	
 	v to cause something to move into a sloping or uneven position, or to be in this position
+	Suddenly the boat tilted to one side
 	
 	5140	 	monetary
 	
@@ -12824,13 +12827,27 @@
 	5188	 	pick
 	5189	 	shiny
 	5190	 	bass
+	
+	n the lowest tone or part in music, for instruments or voices
+	
 	5191	 	memo
+	
+	备忘录
+	
 	5192	 	lesser
+	
+	not as great in size, amount or importance as sth/sb else
+	
 	5193	 	stun
+	
+	v to make a person or an animal unconscious for a short time, especially by hitting them on the head
+	
 	5194	 	junk
 	5197	 	board
 	5198	 	poorly
 	5199	 	affection
+	
+	n the feeling of liking or loving sb/sth very much and caring about them
 	
 	-------
 	
@@ -12839,14 +12856,34 @@
 	5202	 	between
 	5203	 	silently
 	5204	 	fool
+	
+	蠢人；傻瓜
+	
 	5205	 	colored
+	
+	有…色的；色彩…的
+	
 	5206	 	warming
 	5207	 	philosopher
+	
+	a person who studies or writes about philosophy
+	
 	5208	 	clutch
+	
+	v to hold sb/sth tightly
+	
 	5209	 	breakdown
+	
+	（车辆或机器的）故障，损坏
+	
 	5210	 	conceal
+	
+	v to hide sb/sth
+	
 	5211	 	retreat
-	5212	 	experiment
+	
+	退却；撤退
+	
 	5213	 	monitoring
 	5214	 	kidney
 	5215	 	curl
@@ -12854,157 +12891,466 @@
 	5217	 	healing
 	5218	 	nineteenth
 	5219	 	goodness
+	
+	the quality of being good
+	
 	5220	 	geography
+	
+	地理（学）
+	
 	5221	 	destiny
 	5222	 	remarkably
+	
+	adj unusual or surprising in a way that causes people to take notice
+	
 	5223	 	alien
 	5225	 	taxi
 	5226	 	leak
 	5227	 	solo
 	5228	 	narrative
+	
+	n a description of events, especially in a novel 
+	
 	5229	 	Australian
 	5230	 	trillion
+	
+	one million million
+	
 	5231	 	loving
 	5232	 	homicide
+	
+	杀人罪
+	
 	5233	 	parliament
+	
+	the group of people who are elected to make and change the laws of a country 议会；国会
+	
 	5234	 	herd
+	
+	a group of animals of the same type that live and feed together 兽群；牧群
+	
 	5235	 	greenhouse
-	5236	 	outline
 	5237	 	biblical
+	
+	adj connected with the Bible; in the Bible
+	
 	5238	 	passionate
+	
+	adj having or showing strong feelings of sexual love or of anger
+	
 	5239	 	expenditure
+	
+	n the act of spending or using money; an amount of money spent
+	
 	5240	 	probe
+	
+	v to ask questions in order to find out secret or hidden information about sb/sth
+	n a thorough and careful investigation of sth
+	
 	5241	 	pipeline
+	
+	输油管道，输气管道，输送管线（通常指地下的）
+	
 	5242	 	fuel
+	
+	燃料
+	
 	5243	 	psychiatrist
+	
+	a doctor who studies and treats mental illnesses
+	
 	5244	 	ruin
 	5245	 	atom
+	
+	the smallest particle of a chemical element that can exist
+	
 	5246	 	snack
+	
+	a small meal or amount of food, usually eaten in a hurr
+	
 	5247	 	hood
+	
+	a piece of cloth put over sb's face and head so that they cannot be recognized or so that they cannot see
+	
 	5248	 	ending
 	5249	 	migrant
 	5250	 	positively
+	
+	adv 绝对地；肯定地
+	
 	5251	 	charming
 	5252	 	baking
+	
+	the process of cooking using dry heat in an oven
+	
 	5253	 	supplement
+	
+	增补（物）；补充（物）；添加物
+	
 	5254	 	ink
+	
+	墨水；墨汁；油墨
+	
 	5255	 	distress
+	
+	忧虑；悲伤；痛苦
+	
 	5256	 	competence
+	
+	the ability to do sth well 能力；胜任
+	
 	5257	 	adaptation
+	
+	1 改编本；改写本
+	2 适应
+	
 	5258	 	Oscar
 	5259	 	imagery
+	
+	形象的描述；意象
+	
 	5260	 	addiction
+	
+	瘾；入迷；嗜好
+	
 	5261	 	pledge
+	
+	n,v a serious promise 保证；诺言；誓约
+	
 	5262	 	paradigm
+	
+	n 范例；典范；
+	
 	5263	 	homeowner
 	5264	 	memorial
-	5265	 	large
+	
+	n 纪念碑（或像等）
+	
 	5266	 	hierarchy
-	5268	 	double
+	
+	 等级制度（尤指社会或组织） a system, especially in a society or an organization, in which people are organized into different levels of importance from highest to lowest
+	the social/political hierarchy
+	社会／政治等级制度
+	
 	5269	 	backward
+	
+	adj  directed or moving towards the back 向后的；朝后的
+	
 	5270	 	hike
+	
+	n 远足；徒步旅行
+	
 	5271	 	offend
+	
+	v ~ (sb)to make sb feel upset because of sth you say or do that is rude or embarrassing
+	
 	5272	 	appetite
+	
+	食欲；胃口
+	欲望
+	
 	5273	 	left
 	5274	 	sympathetic
+	
+	adj 同情的；有同情心的；表示同情的
+	
 	5275	 	reconstruction
+	
+	n 重建；改造；复原
+	
 	5276	 	condom
+	
+	n 避孕套
+	
 	5277	 	hostility
+	
+	n unfriendly or aggressive feelings or behaviour 敌意；对抗
+	
 	5278	 	temporarily
-	5279	 	master
+	
+	adv 暂时的
+	
 	5280	 	litigation
+	
+	n the process of making or defending a claim in court 诉讼；打官司
+	
 	5281	 	spectator
+	
+	n （尤指体育比赛的）观看者，观众
+	
 	5282	 	bleed
 	5283	 	comet
-	5284	 	explicitly
+	
+	n 彗星；扫帚星
+	
 	5285	 	ensemble
-	5286	 	anger
+	
+	n 乐团，剧团，舞剧团（全体成员）
+	n 全体；整体
+	
 	5287	 	choke
+	
+	v （使）窒息，哽噎
+	
 	5288	 	saint
 	5289	 	cocktail
-	5290	 	kick
+	
+	n 鸡尾酒
+	
 	5291	 	part-time
-	5292	 	twenty-five
 	5293	 	pea
+	
+	豌豆；豌豆粒
+	
 	5294	 	pesticide
+	
+	n 杀虫剂；除害药物
+	
 	5295	 	delegate
+	
+	n 代表；会议代表
+	v 授（权）；把（工作、权力等）委托（给下级）
+	
 	5296	 	tremble
+	
+	（因紧张、激动、惊慌等）颤抖，哆嗦，抖动，战栗
+	
 	5297	 	preservation
-	5298	 	cautious
+	
+	n 保护；维护；保存
+	
 	5299	 	trigger
+	
+	v 发动；引起；触发
+	n （枪的）扳机
 	
 	-------
 	
 	5300	 	rotation
-	5301	 	adolescent
 	5302	 	affordable
+	
+	to have enough money or time to be able to buy or to do sth 买得起；（有时间）做，能做
+	
 	5303	 	prejudice
+	
+	n 偏见；成见
+	
 	5304	 	certificate
+	
+	n. 证明书, 执照
+	
 	5305	 	Italian
-	5306	 	venture
 	5307	 	robe
-	5308	 	price
+	
+	n 袍服，礼袍（常于典礼中穿着以显示身份）
+	
 	5309	 	designate
+	
+	v 命名；指定；认定
+	v 选定，指派，委任（某人任某职）
+	
 	5310	 	abruptly
-	5311	 	nod
+	
+	adv 突然的；意外的
+	
+	8879	 	abrupt
+	
+	adj 
+	
 	5312	 	mercy
 	5313	 	rookie
+	
+	新手；生手
+	
 	5314	 	pin
-	5315	 	scream
+	
+	针
+	
 	5316	 	classmate
-	5317	 	hurt
 	5318	 	cult
+	
+	n （对生活方式、态度、观念等的）狂热，时尚，崇拜
+	n （有极端宗教信仰的）异教团体
+	
 	5319	 	acute
+	
+	very serious or severe 十分严重的
+	an acute illness is one that has quickly become severe and dangerous （疾病）急性的
+	very sensitive and well developed 灵敏的
+	
 	5320	 	motel
+	
+	a hotel for people who are travelling by car, with space for parking cars near the rooms
+	
 	5321	 	hatred
+	
+	a very strong feeling of dislike for sb/sth 仇恨；憎恨；厌恶
+	
 	5322	 	diameter
+	
+	直径；对径
+	
 	5323	 	nursing
+	
+	the job or skill of caring for people who are sick or injured
+	
 	5324	 	predecessor
+	
+	a person who did a job before sb else
+	
 	5325	 	induce
-	5326	 	blast
+	
+	v  to persuade or influence sb to do sth
+	v  induce
+	
 	5327	 	enlist
+	
+	v  to persuade sb to help you or to join you in doing sth 争取，谋取（帮助、支持或参与）
+	v  使）入伍；征募；从军
+	
 	5328	 	disclosure
+	
+	n 揭露；透露；公开
+	
 	5329	 	juvenile
+	
+	adj 少年的；未成年的
+	
 	5330	 	fan
-	5331	 	open
 	5332	 	gown
+	
+	a woman's dress, especially a long one for special occasions
+	
 	5333	 	notably
-	5334	 	usual
+	
+	adv 尤其；特别
+	
 	5335	 	halt
 	5336	 	persistent
+	
+	adj 执着的；不屈不挠的；坚持不懈的
+	
 	5338	 	humanitarian
+	
+	adj 人道主义的；慈善的
+	
 	5340	 	exile
+	
+	n v 流放；流亡；放逐
+	
 	5341	 	roar
 	5342	 	torture
 	5343	 	architectural
+	
+	adj 建筑学的；建筑方面的
+	
 	5344	 	chorus
 	5345	 	fountain
+	
+	n 人工喷泉；喷水池
+	
 	5346	 	revive
+	
+	v （使）苏醒，复活
+	
 	5347	 	endangered
+	
+	adj（动植物群落等）濒临灭绝的，濒危的
+	
 	5348	 	comic
+	
+	adj  滑稽的；使人发笑的
+	
 	5350	 	revenge
+	
+	n v 报复；报仇
+	
 	5351	 	unclear
+	
+	adj 不清楚的；不确定的；难以掌握的
+	
 	5352	 	sour
 	5353	 	caution
+	
+	n 谨慎；小心；慎重
+	
+	5298	 	cautious
+	
+	adj 小心的；谨慎的
+	
 	5354	 	originate
+	
+	v 起源；发源；发端于
+	
 	5355	 	empirical
+	
+	adj 以实验（或经验）为依据的；经验主义的
+	
 	5356	 	lure
+	
+	v.n 劝诱；引诱；诱惑
+	
 	5357	 	compile
+	
+	v 编写（书、列表、报告等）；编纂
+	
 	5358	 	nationally
+	
+	adv 全国性地；与某国相关地
+	
 	5359	 	erupt
+	
+	v （火山）爆发；（岩浆、烟等）喷出
+	
 	5360	 	graphic
+	
+	adj 绘画的；书画的；图样的；图案的
+	
 	5361	 	loom
+	
+	n n. 织布机
+	
 	5362	 	witch
+	
+	n .女巫；巫婆
+	
 	5364	 	notable
+	
+	adj 值得注意的；显著的；重要的
+	
 	5365	 	dusty
-	5366	 	glow
-	5367	 	trip
+	
+	adj  布满灰尘的；灰尘覆盖的
+	
 	5368	 	cane
+	
+	n. 藤条；手杖；细长的茎
+	
 	5369	 	fortunate
-	5370	 	least
+	
+	adj 幸运的；交好运的；吉利的
+	
 	5371	 	forge
+	
+	vt. 锻造
+	
 	5373	 	disrupt
+	
+	v 
+	to make it difficult for sth to continue in the normal way 扰乱；使中断；打乱
+	
+	6890	 	disruption
+	
+	n 扰乱；使中断；打乱
+	
+	8603	 	disruptive
+	
+	adj 引起混乱的；扰乱性的；破坏性的
+	
 	5374	 	commerce
+	
+	n （尤指国际间的）贸易；商业；商务
+	
 	5375	 	aging
 	5376	 	rap
 	5377	 	surgical
@@ -13504,7 +13850,6 @@
 	5890	 	harmful
 	5891	 	recycle
 	5892	 	worship
-	5893	 	torture
 	5894	 	coincidence
 	5895	 	resentment
 	5896	 	feminine
@@ -14460,7 +14805,6 @@
 	6887	 	translator
 	6888	 	strategist
 	6889	 	marsh
-	6890	 	disruption
 	6891	 	preside
 	6892	 	gradual
 	6893	 	nowadays
@@ -14674,7 +15018,6 @@
 	7105	 	rugged
 	7106	 	boulder
 	7107	 	inequality
-	7108	 	halt
 	7109	 	produce
 	7110	 	obscure
 	7111	 	coherent
@@ -16148,7 +16491,6 @@
 	8600	 	knit
 	8601	 	temperament
 	8602	 	drummer
-	8603	 	disruptive
 	8604	 	degrade
 	8605	 	chilly
 	8606	 	convoy
@@ -16411,7 +16753,6 @@
 	8876	 	outweigh
 	8877	 	nanny
 	8878	 	stylish
-	8879	 	abrupt
 	8880	 	demographics
 	8881	 	terminal
 	8883	 	tabloid
