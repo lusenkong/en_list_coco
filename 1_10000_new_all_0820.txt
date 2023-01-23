@@ -26,7 +26,6 @@
 	25	 	from
 	26	 	that
 	27	 	not
-	28	 	n't
 	29	 	by
 	30	 	she
 	31	 	or
@@ -11749,6 +11748,7 @@
 	4797	 	rental
 	
 	n 租金
+	adj 租的（后接 房屋，汽车等）
 	
 	4798	 	fantastic
 	
@@ -13790,6 +13790,9 @@
 	5827	 	Vietnamese
 	5828	 	gardener
 	5829	 	antique
+
+	adj / n 古老的，古董的
+
 	5830	 	Polish
 	5831	 	sweeping
 	5832	 	dairy
@@ -14393,7 +14396,6 @@
 	6448	 	erect
 	6449	 	oath
 	6451	 	deficiency
-	6452	 	antique
 	6453	 	nephew
 	6454	 	glare
 	6455	 	implant
@@ -14486,6 +14488,9 @@
 	6551	 	discomfort
 	6552	 	scale
 	6553	 	backpack
+
+	双肩背包
+
 	6554	 	trench
 	6555	 	low-income
 	6556	 	deviation
@@ -14595,6 +14600,9 @@
 	6666	 	cleaner
 	6667	 	hub
 	6668	 	compartment
+
+	n 隔间，隔层
+
 	6669	 	fury
 	6670	 	insult
 	6672	 	spontaneous
@@ -16636,6 +16644,9 @@
 	8756	 	absorption
 	8757	 	housewife
 	8758	 	apprentice
+
+	n 学徒，徒弟
+
 	8759	 	moth
 	8760	 	outward
 	8761	 	sizable
@@ -17867,5 +17878,9 @@
 	9997	 	assorted
 	9998	 	receptive
 	9999	 	voltage
+        9999	induct
+	v 就职，征召入伍
+	9999	induction
+	n 就职，电磁感应，归纳法
 	-------
 	
