@@ -528,7 +528,6 @@
 	517	 	pick
 	518	 	wear
 	519	 	paper
-	520	 	special
 	521	 	space
 	522	 	ground
 	523	 	form
@@ -1118,7 +1117,6 @@
 	1112	 	video
 	1113	 	global
 	1114	 	Senate
-	1115	 	reform
 	1116	 	access
 	1117	 	restaurant
 	1118	 	judge
@@ -1317,6 +1315,9 @@
 	1307	 	advantage
 	1308	 	quick
 	1310	 	leadership
+	
+	领导；领导地位
+	
 	1311	 	earn
 	1312	 	pound
 	1313	 	basis
@@ -1892,7 +1893,6 @@
 	1806	 	surgery
 	1807	 	correct
 	1808	 	Jewish
-	1809	 	blame
 	1811	 	due
 	1812	 	basketball
 	1813	 	late
@@ -1926,6 +1926,9 @@
 	
 	1836	 	German
 	1837	 	gender
+	
+	n 性别
+	
 	1838	 	solve
 	1839	 	fee
 	
@@ -3312,10 +3315,6 @@
 	
 	指的，特指的（与泛指相对）
 	
-	2569	 	specialist
-	
-	专家
-	
 	2570	 	origin
 	
 	起源；源头；起因
@@ -4592,10 +4591,6 @@
 	2953	 	adapt
 	2954	 	Irish
 	2955	 	honey
-	2956	 	correspondent
-	
-	记者；通讯员
-	
 	2957	 	pale
 	
 	灰白的；苍白的；白皙的
@@ -9869,10 +9864,6 @@
 	4157	 	queen
 	4158	 	dilemma
 	4159	 	input
-	4160	 	specialize
-	
-	专门研究（或从事）；专攻
-	
 	4161	 	northeast
 	4162	 	shallow
 	
@@ -11127,12 +11118,7 @@
 	4604	 	premise
 
 	n. 前提；
-
-	4605	 	specialty
-
-	n. 专业；专长
-	特制品，特产
-
+	
 	4606	 	deem
 
 	vt. 认为，
@@ -13352,136 +13338,460 @@
 	n （尤指国际间的）贸易；商业；商务
 	
 	5375	 	aging
+	
+	adj 老化的
+	
 	5376	 	rap
 	5377	 	surgical
+	
+	adj  外科的；外科手术的
+	
 	5378	 	breakthrough
+	
+	重大进展；突破
+	
+	520	 	special
+	
+	2569	 	specialist
+	
+	专家
+	4160	 	specialize
+	
+	专门研究（或从事）；专攻
+	
 	5379	 	specialized
+	
+	adj 专用的；专业的；专门的
+	
+	4605	 	specialty
+
+	n. 专业；专长
+	特制品，特产
+	
+	8098	 	specially
+	
+	adv  专门地；特意
+	
 	5380	 	established
+	
+	adj 已确立的；已获确认的；确定的
+	
 	5382	 	desirable
+	
+	adj 想望的；可取的；值得拥有的；值得做的
+	
 	5383	 	slim
+	
+	adj 苗条的；纤细的
+	adj 微薄的；不足的；少的；小的
+	
 	5384	 	remains
-	5386	 	grip
+	
+	剩余物；残留物；剩饭菜
+	古代遗物；古迹；遗迹；遗址
+	遗体；遗骸
+	
 	5387	 	alert
+	
+	adj 警觉的；警惕的；戒备的
+	v 向…报警；使警觉；使警惕；使戒备
+	
 	5388	 	rear
+	
+	n 后部
+	n 屁股；臀部
+	
 	5389	 	attain
+	
+	v （通常经过努力）获得，得到
+	
 	5390	 	countryside
+	
+	乡村；农村
+	
 	5391	 	hut
+	
+	简陋的小房子（或棚、舍）
+	
 	5392	 	sixteen
 	5393	 	couple
 	5394	 	holding
+	
+	n 股份
+	n 私有财产；（博物馆、图书馆等的）馆藏
+	
 	5395	 	excite
+	
+	v 使激动；使兴奋
+	
 	5396	 	dinosaur
 	5397	 	choir
-	5398	 	comfort
+	
+	n （教堂的）唱诗班；（公开演出的）合唱团，歌唱队
+	
 	5399	 	title
 	
 	-------
 	
 	5400	 	urgent
 	5401	 	pronounce
+	
+	v 发音；读（音）
+	
+	7839	 	pronounced
+	
+	adj 显著的；很明显的；表达明确的
+	
 	5402	 	banner
+	
+	n 横幅；旗幡
+	
 	5403	 	rising
+	
+	n 起义；叛乱
+	
 	5404	 	insider
+	
+	n 知内情者；内部的人
+	
 	5405	 	reform
+	
+	v  改革；改进；改良
+	
+	6807	 	reformer
+	
+	n reformer
+	
 	5406	 	confine
+	
+	v. 限制；禁闭
+	
 	5407	 	assertion
+	
+	n 认定；断言
+	
 	5409	 	underground
 	5410	 	orthodox
+	
+	adj 正统的；规范的（信仰）
+	
 	5411	 	register
+	
+	v 登记；注册
+	
 	5412	 	payroll
+	
+	n （公司员工的）工资名单
+	
 	5413	 	odor
+	
+	n 尤指难闻的）气味；臭味
+	
 	5414	 	outbreak
+	
+	n （暴力、疾病等坏事的）爆发，突然发生
+	
 	5415	 	grim
+	
+	adj 严肃的；坚定的；阴冷的
+	
 	5416	 	winning
 	5417	 	strand
+	
+	v 使滞留;使搁浅
+	
 	5418	 	freshly
 	5419	 	profitable
+	
+	adj 有利润的；赢利的
+	
 	5420	 	orchestra
+	
+	n. 管弦乐队
+	
 	5421	 	novel
 	5422	 	drought
+	
+	n 久旱；旱灾
+	
 	5423	 	bead
+	
+	n （有孔的）珠子
+	
 	5424	 	uphold
+	
+	v 支持，维护（正义等）
+	
 	5425	 	commentator
+	
+	（电视台、电台或报章的）评论员
+	（尤指电视台或电台的）现场解说员，实况播音员
+	
 	5426	 	leap
+	
+	v 跳；跳跃；跳越
+	v  骤增；剧增；猛涨
+	
 	5427	 	blame
 	5428	 	tape
 	5429	 	sweat
+	
+	n 汗
+	v 出汗；流汗
+	
 	5430	 	believer
 	5431	 	hazardous
+	
+	adj 危险的；有害的
+	
 	5432	 	confirmation
+	
+	n 证实；确认书；证明书
+	
 	5433	 	wireless
 	5434	 	merge
-	5435	 	proceedings
+	5435	 	proceeding
+	
+	诉讼；诉讼程序
+	
 	5436	 	shaft
+	
+	n 竖井;电梯井
+	
 	5437	 	convenient
 	5439	 	theft
+	
+	n  偷；偷窃；盗窃罪
+	
 	5440	 	frog
-	5441	 	guess
 	5442	 	vanilla
+	
+	adj 普通的；寻常的；毫无特色的 / 香草味的
+	
 	5443	 	grind
+	
+	v 磨碎；碾碎；把…磨成粉
+	
 	5444	 	elected
 	5445	 	lone
 	5446	 	registration
+	
+	n 登记；注册；挂号
+	
 	5447	 	wounded
 	5449	 	courtesy
+	
+	n 礼貌；谦恭；彬彬有礼
+	adj 
+	
 	5450	 	shotgun
 	5451	 	subway
 	5452	 	circulation
+	
+	n. 流通, 循环
+	流通, 传播
+	发行量
+	
 	5453	 	sentence
 	5454	 	transplant
+	
+	v/n 移植（器官、皮肤等）
+	
 	5455	 	explosive
+	
+	adj  易爆炸的；可能引起爆炸的
+	n 炸药；爆炸物
+	
 	5456	 	congressman
+	
+	（尤指美国众议院的）国会议员；众议员
+	
 	5457	 	penetrate
+	
+	v 穿过；进入
+	v 渗透，打入（组织、团体等）
+	
 	5458	 	illuminate
+	
+	v  照明；照亮；照射
+	
 	5459	 	venue
+	
+	n 活动场地（如音乐厅、体育比赛场馆、会场）
+	
 	5460	 	Nazi
 	5461	 	parameter
 	5462	 	canal
+	
+	n 运河；灌溉渠
+	
 	5463	 	grill
+	
+	n （炊具、烤炉内的）烘烤器
+	v （在高温下方或上方）烧烤，炙烤
+	
 	5464	 	unnecessary
 	5465	 	champagne
 	5466	 	regression
+	
+	n 倒退；回归；退化
+	
 	5467	 	flaw
+	
+	n 错误；缺点
+	
+	6818	 	flawed
+	
+	adj 有错误的；有缺点的；有瑕疵的
+	
 	5468	 	innocence
 	5469	 	attribute
+	
+	v 把…归因于；认为…是由于
+	n 属性；性质；特征
+	
 	5470	 	evolutionary
+	
+	adj 进化的；演变的；逐渐发展的
+	
 	5472	 	native
 	5473	 	skinny
+	
+	adj 极瘦的；干瘦的；皮包骨的 / 紧身的
+	
 	5474	 	posture
+	
+	（坐、立的）姿势
+	
 	5475	 	systematic
+	
+	adj 成体系的；系统的；有条理的；有计划有步骤的
+	
+	7670	 	systematically
+	
+	adv 
+	
 	5476	 	demon
+	
+	n 恶魔；魔鬼
+	
 	5477	 	resulting
+	
+	n 后果；结果
+	
 	5478	 	inclusion
+	
+	n （被）包括，包含
+	
 	5479	 	rehearsal
+	
+	n 排演；排练
+	
 	5480	 	reassure
-	5481	 	great
+	
+	v 使…安心；打消…的疑虑
+	
 	5482	 	invoke
+	
+	v 援引，援用
+	v 提出
+	
 	5483	 	discard
 	5484	 	tub
+	
+	n 盆；桶
+	
 	5485	 	restraint
+	
+	n 约束力；管制措施；制约因素
+	
 	5487	 	revival
+	
+	n （状况或力量的）进步，振兴，复苏
+	
+	2956	 	correspondent
+	
+	记者；通讯员
+	
 	5488	 	correspond
+	
+	v 相一致；符合
+	
+	6046	 	correspondence
+	
+	n 通信；通信联系
+	
+	7566	 	corresponding
+	
+	adj 符合的；相应的；相关的
+	
 	5489	 	theirs
+	
+	他们的，她们的，它们的（所有物）
+	
 	5490	 	murderer
 	5491	 	duration
+	
+	the length of time that sth lasts or continues 持续时间；期间
+	
 	5492	 	inside
 	5493	 	tin
+	
+	锡/罐；罐头盒；罐头
+	
 	5494	 	abundance
+	
+	n 大量；丰盛；充裕
+	
 	5495	 	lime
+	
+	n. 石灰；
+	adj. 绿黄色的
+	
 	5496	 	proposition
+	
+	n 提议，建议，计划（尤指业务上的）
+	
 	5497	 	despair
 	5498	 	attendant
+	
+	n 侍从，随从；
+	
 	5499	 	ethnicity
+	
+	n 民族性；种族渊源；种族特点
 	
 	-------
 	
 	5500	 	fulfill
+	
+	v 履行；执行；符合；具备
+	
+	8886	 	fulfillment
+	
+	n. 完成，履行；实现
+	
 	5501	 	successor
+	
+	n 接替者；继任者；接替的事物；
+	
 	5502	 	assassination
+	
+	n. 暗杀
+	
 	5503	 	atomic
+	
+	adj 原子的；
+	
 	5504	 	geographic
+	
+	地理（学）
+	
 	5505	 	crying
 	5506	 	portable
+	
+	adj 便携式的；手提的；轻便的
+	
 	5507	 	handling
 	5508	 	zero
 	5509	 	strawberry
@@ -13679,7 +13989,6 @@
 	5712	 	boxing
 	5713	 	faction
 	5715	 	spice
-	5716	 	alert
 	5717	 	confused
 	5718	 	mat
 	5719	 	hop
@@ -13998,7 +14307,6 @@
 	6042	 	petition
 	6043	 	diner
 	6045	 	aside
-	6046	 	correspondence
 	6047	 	static
 	6048	 	artery
 	6049	 	mist
@@ -14604,6 +14912,9 @@
 	n 隔间，隔层
 
 	6669	 	fury
+	
+	狂怒；暴怒；狂暴；大发雷霆
+	
 	6670	 	insult
 	6672	 	spontaneous
 	6673	 	usher
@@ -14737,7 +15048,6 @@
 	6804	 	interrogation
 	6805	 	sensibility
 	6806	 	linguistic
-	6807	 	reformer
 	6808	 	sticker
 	6809	 	shooter
 	6810	 	scoring
@@ -14748,7 +15058,6 @@
 	6815	 	publishing
 	6816	 	unveil
 	6817	 	imminent
-	6818	 	flawed
 	6819	 	air
 	6820	 	backwards
 	6821	 	clap
@@ -14818,6 +15127,9 @@
 	6893	 	nowadays
 	6894	 	displace
 	6896	 	trademark
+	
+	商标
+	
 	6897	 	solitary
 	6898	 	catalogue
 	6899	 	documentation
@@ -15111,6 +15423,9 @@
 	7194	 	dismantle
 	7195	 	selling
 	7196	 	dire
+	
+	adj 极其严重的；危急的
+	
 	7197	 	hybrid
 	7198	 	honorable
 	7199	 	high-speed
@@ -15261,6 +15576,9 @@
 	7344	 	sweetheart
 	7345	 	triple
 	7346	 	reversal
+	
+	n 颠倒；彻底转变；反转；倒置
+	
 	7347	 	stolen
 	7348	 	retiree
 	7349	 	disappointing
@@ -15294,7 +15612,6 @@
 	7378	 	labor
 	7379	 	intricate
 	7380	 	voucher
-	7381	 	explosives
 	7382	 	scheduled
 	7383	 	floating
 	7384	 	cash
@@ -15428,6 +15745,10 @@
 	7511	 	cram
 	7512	 	genome
 	7513	 	spike
+	
+	n 尖状物；尖头；尖刺
+	n 猛增；急升
+	
 	7514	 	worrying
 	7515	 	lament
 	7516	 	selfish
@@ -15483,7 +15804,6 @@
 	7563	 	merry
 	7564	 	flatten
 	7565	 	intrinsic
-	7566	 	corresponding
 	7567	 	roadside
 	7568	 	nap
 	7569	 	peek
@@ -15589,7 +15909,6 @@
 	7667	 	undercover
 	7668	 	colonel
 	7669	 	collectively
-	7670	 	systematically
 	7671	 	real-life
 	7672	 	reel
 	7673	 	enlarge
@@ -15754,7 +16073,6 @@
 	7836	 	watershed
 	7837	 	wartime
 	7838	 	profit
-	7839	 	pronounced
 	7841	 	ordeal
 	7842	 	splendid
 	7843	 	multinational
@@ -16004,7 +16322,6 @@
 	8095	 	noodle
 	8096	 	moonlight
 	8097	 	villain
-	8098	 	specially
 	8099	 	durable
 	
 	-------
@@ -16551,6 +16868,9 @@
 	8658	 	yep
 	8659	 	handkerchief
 	8660	 	complementary
+	
+	adj 互补的
+	
 	8661	 	thicken
 	8662	 	consolidation
 	8663	 	radiate
@@ -16769,7 +17089,6 @@
 	8883	 	tabloid
 	8884	 	Baptist
 	8885	 	nonexistent
-	8886	 	fulfillment
 	8887	 	antiquity
 	8888	 	attacker
 	8889	 	nestle
@@ -16827,6 +17146,9 @@
 	8940	 	exterior
 	8941	 	rhythmic
 	8942	 	makeshift
+	
+	adj 临时替代的；权宜的
+	
 	8943	 	endlessly
 	8944	 	clutch
 	8946	 	skeptic
@@ -17114,6 +17436,9 @@
 	9227	 	pointed
 	9228	 	affected
 	9229	 	outgoing
+	
+	adj 爱交际的；友好的；外向的
+	
 	9230	 	midwestern
 	9231	 	clone
 	9232	 	ballroom
