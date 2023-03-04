@@ -266,7 +266,6 @@
 	258	 	yes
 	259	 	after
 	260	 	since
-	261	 	long
 	262	 	provide
 	263	 	service
 	264	 	around
@@ -411,7 +410,6 @@
 	400	 	wait
 	401	 	serve
 	402	 	market
-	403	 	die
 	404	 	send
 	405	 	expect
 	406	 	home
@@ -1938,7 +1936,6 @@
 	1841	 	used
 	1842	 	bowl
 	1843	 	equal
-	1844	 	long
 	1845	 	official
 	1846	 	forth
 	1848	 	typical
@@ -2542,6 +2539,7 @@
 	2227	 	print
 	2229	 	passage
 	2230	 	formal
+	5607	 	formally
 	2231	 	transition
 	
 	过渡，变革
@@ -13793,37 +13791,99 @@
 	adj 便携式的；手提的；轻便的
 	
 	5507	 	handling
-	5508	 	zero
+	
+	n （对形势、人、动物等的）处理，对付，对待
+	
 	5509	 	strawberry
 	5510	 	holder
+	
+	持有者；拥有者
+	
 	5511	 	guerrilla
+	
+	n 游击队员
+	
 	5512	 	clarity
 	5513	 	environmentalist
+	
+	环境保护论者
+	
 	5514	 	canyon
+	
+	n. 峡谷
+	
 	5515	 	verse
+	
+	n. 诗, 韵文
+	
 	5516	 	moisture
+	
+	潮气；水汽；水分
+	
 	5517	 	rally
 	5518	 	contradiction
+	
+	（事实、看法、行动等的）不一致，矛盾，对立
+	
 	5519	 	trophy
+	
+	奖品；战利品；纪念品
+	
 	5520	 	ironic
+	
+	反语的；讽刺的
+	
 	5521	 	rattle
+	
+	gege
+	
 	5522	 	co-worker
 	5523	 	parenting
+	
+	养育；抚养；教养
+	
 	5524	 	gorgeous
 	5525	 	shatter
+	
+	v 打碎
+	
 	5526	 	descent
+	
+	n,v下降
+	
 	5527	 	widen
 	5528	 	tease
+	
+	v 取笑；戏弄；揶揄；寻开心
+	
 	5529	 	startle
+	
+	v  使惊吓；使吓一跳；使大吃一惊
+	
 	5530	 	import
 	5531	 	gospel
 	5532	 	prince
+	
+	王子；王孙；亲王
+	
 	5533	 	waiter
 	5535	 	vow
+	
+	n,v誓，誓言，誓约
+	
 	5537	 	precision
+	
+	精确；准确；细致
+	
 	5538	 	downstairs
 	5539	 	rigid
+	
+	adj. 严格的；僵硬的，死板的
+	
 	5540	 	semester
+	
+	学期（一学年分两个学期）
+	
 	5541	 	cutting
 	5542	 	jam
 	5543	 	hometown
@@ -13832,65 +13892,176 @@
 	5547	 	tumble
 	5548	 	backup
 	5550	 	grid
+	
+	网格；方格
+	
 	5551	 	psychiatric
 	5552	 	eighteen
 	5553	 	tax
 	5554	 	mistake
 	5555	 	rotate
 	5556	 	recount
+	
+	v 讲述，叙述（亲身经历）
+	
 	5557	 	spotlight
 	5558	 	push
 	5559	 	settler
+	
+	n 移民；殖民者
+	
 	5560	 	reason
 	5561	 	narrow
 	5562	 	lean
+	
+	v 前俯（或后仰）；倾斜
+	
 	5563	 	magnificent
+	
+	adj 壮丽的；宏伟的；值得赞扬的
+	
 	5564	 	polite
+	
+	adj 有礼貌的；客气的；儒雅的
+	
 	5565	 	contrary
-	5566	 	long
+	
+	adj 与之相异的；相对立的；相反的
+	Contrary to popular belief, many cats dislike milk.
+	
 	5567	 	scrape
+	
+	v 刮掉；削去
+	I scraped the mud off my shoes
+	
 	5568	 	optical
+	
+	adj 视力的；视觉的；光学的
+	
 	5569	 	fourteen
 	5570	 	ambulance
 	5571	 	superintendent
+	
+	n 主管人；负责人；监管人；
+	
 	5572	 	bump
+	
+	v （无意地）碰，撞
+	
 	5573	 	prey
+	vi. 捕食
+	n 猎物
+	
 	5574	 	dead
+	
+	adj / n
+	
+	403	 	die
+	
+	v 
+	
 	5575	 	sadness
 	5577	 	peculiar
+	
+	adj 怪异的；奇怪的；不寻常的
+	
 	5578	 	editorial
+	
+	adj 编辑的；编者的；主编的
+	
 	5579	 	audit
+	
+	v/n 审计；审查，检查
+	
 	5580	 	supporting
+	
+	adj （演员、角色）次要的；配角的
+	adj 支承的；支撑的；承重的
+	
 	5582	 	modem
+	
+	n 调制解调器
+	
 	5583	 	firefighter
+	
+	消防队员
+	
 	5584	 	supper
+	
+	晚饭；晚餐；夜宵
+	
 	5585	 	applicant
+	
+	n 申请人（尤指求职、进高等学校等）
+	
 	5586	 	sample
 	5587	 	Egyptian
 	5588	 	absent
 	5589	 	salvation
 	5590	 	namely
+	
+	adv 即；也就是
+	
 	5591	 	injured
 	5592	 	conceptual
+	
+	adj  概念（上）的；观念（上）的
+	
 	5593	 	equivalent
+	
+	adj/n （价值、数量、意义、重要性等）相等的，相同的
+	
 	5594	 	visa
+	
+	（护照的）签证
+	
 	5595	 	highlight
-	5596	 	try
 	5597	 	renew
 	5598	 	overhead
+	
+	adv/adj 在头上方；在空中
+	
 	5599	 	peach
+	
+	n 桃；桃子
+	adj 粉红色的
 	
 	-------
 	
 	5601	 	goose
+	
+	鹅
+	
 	5602	 	fireplace
+	
+	壁炉
+	
 	5603	 	Caribbean
+	
+	加勒比海地区
+	
 	5604	 	nurture
+	
+	养育；养护；培养
+	These delicate plants need careful nurturing.
+	children nurtured by loving parents
+	
 	5605	 	keyboard
-	5607	 	formally
 	5608	 	vivid
+	
+	adj
+	
+	9568	 	vividly
 	5610	 	frighten
+	
+	sb to do sth
+	to make sb suddenly feel afraid
+	Sorry, I didn't mean to frighten you
+	
 	5611	 	frightening
+	
+	making you feel afraid 引起恐惧的；使惊恐的；骇人的
+	
 	5612	 	furious
 	5613	 	poison
 	5615	 	daddy
@@ -16114,6 +16285,10 @@
 	7881	 	uprising
 	7882	 	endurance
 	7883	 	spicy
+	
+	adj 辛辣的
+	spicy food
+	
 	7884	 	trajectory
 	7886	 	ornament
 	7887	 	orderly
@@ -17772,7 +17947,6 @@
 	9565	 	dread
 	9566	 	extinct
 	9567	 	gangster
-	9568	 	vividly
 	9569	 	orphanage
 	9570	 	muted
 	9571	 	twenty-one
