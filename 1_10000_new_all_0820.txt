@@ -2885,7 +2885,6 @@
 	2375	 	commander
 	2376	 	digital
 	2377	 	arrangement
-	2379	 	total
 	2380	 	usual
 	2381	 	anger
 	2383	 	heavily
@@ -2900,7 +2899,6 @@
 	2389	 	equally
 	2390	 	vary
 	2391	 	wire
-	2392	 	round
 	2393	 	distribution
 	2394	 	transportation
 	
@@ -4599,7 +4597,6 @@
 	尤指对将来有影响的）重要性，意义
 	
 	2960	 	load
-	2961	 	round
 	2962	 	vessel
 	
 	盛液体的）容器，器皿
@@ -10681,7 +10678,6 @@
 	adj 粗暴的
 	adj 总的，毛的
 
-	4459	 	damn
 	4460	 	hormone
 	4461	 	texture
 
@@ -14063,61 +14059,196 @@
 	making you feel afraid 引起恐惧的；使惊恐的；骇人的
 	
 	5612	 	furious
+	
+	adj 狂怒的；暴怒的
+	
+	9981	 	furiously
+	
+	adv 狂怒的；暴怒的
+	
 	5613	 	poison
+	
+	n 毒物；毒药；毒素
+	v 使重度
+	
 	5615	 	daddy
 	5616	 	ruler
+	
+	n. 尺, 直尺
+	统治者, 支配者
+	
 	5617	 	undoubtedly
+	
+	adv. 毋庸置疑地,的确地
+	
 	5618	 	rocky
+	
+	adj 岩石的；多岩石的
+	
 	5621	 	tenant
-	5622	 	total
+	
+	n 房客；租户；佃户
+	
 	5623	 	omit
-	5624	 	round
-	5625	 	grade
+	
+	v 删除；忽略；漏掉；遗漏
+
 	5626	 	spider
 	5627	 	obsession
+	
+	n 痴迷；着魔；困扰
+	
 	5628	 	corpse
+	
+	n  尸体；（尤指人的）死尸，尸首
+	
 	5629	 	damp
+	
+	adj 指微湿的、潮湿的、湿度大的，常指令人不舒服的：
+	
+	6642	 	moist
+	
+	指微湿的、湿润的、润泽的，常指是舒适或有益的：
+	
 	5630	 	Turkish
 	5631	 	problematic
+	
+	adj 造成困难的；存在问题的
+	
 	5632	 	certainty
+	
+	n 确实的事；必然的事
+	
 	5634	 	nutrition
+	
+	n  营养；滋养；营养的补给
+	
 	5635	 	melody
+	
+	n. 旋律；歌曲；美妙的音乐
+	
 	5639	 	vocabulary
 	5640	 	maple
+	
+	n 枫树
+	
 	5641	 	wool
+	
+	n （羊等的）绒，毛
+	
 	5642	 	salesman
+	
+	售货员；推销员
+	
 	5643	 	memoir
+	
+	（尤指名人的）回忆录；自传
+	
 	5644	 	damn
 	5645	 	utterly
+	
+	完全的；十足的；彻底的
+	
 	5646	 	cultivate
+	
+	vt. 耕作, 种植
+	
 	5647	 	microphone
 	5648	 	cherry
+	
+	樱桃
+	
 	5649	 	luxury
+	
+	奢侈品
+	
 	5650	 	summarize
 	5651	 	meadow
-	5652	 	goodbye
+	
+	草地；牧场
+	
 	5653	 	disposal
+	
+	n 去掉；清除；处理
+	sewage disposal systems
+	污水处理系统
+	the disposal of nuclear waste
+	核废料的处理
+	
 	5654	 	magical
 	5655	 	accordingly
+	
+	照着；相应地
+	
 	5656	 	defy
-	5657	 	stack
+	
+	v 违抗；反抗；蔑视
+	
 	5658	 	plug
+	
+	插头
+	
 	5659	 	mining
+	
+	采矿；采矿业
+	
 	5660	 	wallet
 	5661	 	socialist
+	
+	社会主义者；社会党党员
+	
 	5662	 	lamb
+	
+	羔羊；小羊
+	
 	5663	 	scrap
+	
+	n. 小块（纸、布匹等）；
+	v. 废弃；废除；
+	
 	5664	 	tempt
+	
+	引诱；诱惑
+	
 	5665	 	fundamentally
 	5666	 	wildly
+	
+	adv. 野生地；野蛮地；
+	
 	5667	 	declaration
+	
+	公告；宣告；宣言
+	
 	5668	 	axis
+	
+	n. 轴
+	
 	5669	 	academy
+	
+	n 研究院，学会
+	
 	5670	 	applause
+	
+	n 鼓掌；喝彩
+	
 	5671	 	inject
+	
+	（给…）注射（药物等）
+	
 	5672	 	nursing
+	
+	n 护理；看护
+	
 	5673	 	evenly
+	
+	adj 平滑地；有规律地；均匀地；相等地
+	
 	5674	 	precede
+	
+	在…之前发生（或出现）；先于
+	She preceded me in the job.
+	她是我这工作的前任。
+	
 	5675	 	dual
 	
 	 两部分的；双重的；双的
@@ -15054,7 +15185,6 @@
 	6639	 	motif
 	6640	 	mentality
 	6641	 	pavement
-	6642	 	moist
 	6643	 	tackle
 	6644	 	tractor
 	6645	 	Canadian
@@ -15697,7 +15827,6 @@
 	7294	 	takeover
 	7295	 	dwell
 	7296	 	milky
-	7298	 	plug
 	7299	 	tangible
 	
 	-------
@@ -17560,7 +17689,6 @@
 	9178	 	mitigate
 	9179	 	freak
 	9180	 	stepfather
-	9181	 	damn
 	9182	 	tidal
 	9183	 	hardwood
 	9184	 	chronicle
@@ -18351,7 +18479,6 @@
 	9978	 	checkpoint
 	9979	 	authorization
 	9980	 	receptor
-	9981	 	furiously
 	9982	 	resume
 	9983	 	greasy
 	9984	 	bonding
